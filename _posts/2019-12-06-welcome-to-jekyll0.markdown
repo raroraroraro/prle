@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Igualdad en las Pensiones de nuestros Políticos"
+date:   2019-12-03 01:13:59 +0100
+categories: jekyll update
+---
+Quizá sea de los que aún piensan que todos los trabajadores somos iguales. Aparte los objetos cortantes de su alredeor antes de seguir leyendo el artículo 2 del [¡Reglamento de pensiones parlamentarias!](www.congreso.es/public_oficiales/L8/CORT/BOCG/A/CG_A278.PDF) de fecha 11 de junio de 2006:
+
+    Artículo 2. Tendrán derecho a obtener la pensión parlamentaria los
+    ex-parlamentarios que hayan tenido la condición de Diputados o de Senadores
+    durante al menos **siete años**, siempre que se encuentren en alguna de las
+    siguientes situaciones...
+
+El resto del reglamento tampoco tiene desperdicio en cuanto al concepto de Otras Ayudas:
+
+    Artículo 7. El ex-parlamentario que, en el momento de su cese, haya cumplido
+    55 años o los cumpla en el año en que se produzca la disolución de la Cámara
+    y carezca de una actividad profesional o laboral permanente por cuenta
+    propia o ajena, tendrá derecho a que por las Cortes Generales se le mantenga
+    en situación de alta en la Seguridad Social hasta que complete el periodo de
+    cotización necesario para causar el derecho a la pensión de jubilación, de
+    acuerdo con el convenio que las Cortes Generales y la Seguridad Social
+    tengan suscrito
+
+¿Se salvarán nuestros políticos del hachazo que tendrán que recibir las pensiones en España antes del 2050, cuando lideremos el ranking de menor número de personas trabajando por jubilado, tal y como afirma la [OCDE:](https://www.oecd-ilibrary.org/sites/b6d3dcfc-en/index.html?itemId=/content/publication/b6d3dcfc-en&mimeType=text/html). No tendremos que esperar 30 años para descubrirlo, la próxima recesión responderá a esa pregunta, pero ya hablaremos de ésto.
+
+Si pueden estar seguros de algo es que no verán el día en que los propios políticos, por iniciativa propia, sean quienes derogen este reglamento y es que la casta ya no es un término de moda.
+
+La pregunta que nos hacemos en el partido es: ¿cómo puede la sociedad esperar cambios de aquellos que no tienen ningún incentivo en realizarlos una vez que se convierten en parte del problema? Si los ciudadanos entregamos un cheque en blanco en cada legislatura a nuestros políticos ¿acaso podemos esperar que no se lo cobren?
+
+España no es un país para ilusos. Traten de pensar en un sistema -que no sea la democracia directa- para que sus intereses no sean secuestrados por la clase política y si lo encuentran, por favor, compártanlo. **Nosotros creemos que la única forma de conservar el poder de un voto es no entregárselo a nadie.**
+
+Nuestra solución pasa por una simulación de democracia directa en la que los afiliados al partido ejerzan su derecho de voto en los temas que les preocupan y que el diputado del partido tenga que pulsar el botón que haya resultado ganardor de la votación en el partido. Dicha votación será pública para que la transparencia sea máxima (y no quepa la posiblidad de amañar los resultados) realizandose por vía telemática (para asegurar su sencillez y comodida).
+
+Sí, ya sabemos que podemos elegir a alquien al azar para que pulse el botón y aún así eso no nos garantiza que no traicione el principio al que habrá de comprometerse y votar en el sentido que haya resultado de la consulta a los afiliados del partido, pero ¿acaso existe algún sistema mejor hasta que se apruebe una legislación de [Democracia 4.0 ](https://15mpedia.org/wiki/Democracia_4.0)? El día que la ley permita su auto-representación política, el Partido Raro se disolverá.
+
+Defiende a tu país y te lo agradecerán con una medalla, defiende a tu partido y recibirás la máxima pensión.
