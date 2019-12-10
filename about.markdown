@@ -1,18 +1,7 @@
 ---
 layout: page
-title: About
+title: Acerca de
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Este partido ha fundado por miembros de Escaños en Blanco con la intención de renovar e impulsar algunas ideas del voto en blanco representado y la democracia directa. Si deseas colaborar con el partido, ponte en contacto con nosotros.
