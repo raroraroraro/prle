@@ -14,11 +14,11 @@ Esa misma noche, 8 socios distintos se reunieron en el otro extremo de la ciudad
 
 Ambos bancos abrieron sus puertas el 1 de enero de 2020, aunque lo hicieron con distintas estrategias comerciales: mientras el Banco Seguro no aceptaba depósitos de clientes, el Banco Pseudo-Capitalista se lanzó a una agresiva campaña de captación de pasivos (con la que consiguieron captar 920 clientes de 100.000€) alcanzando la cifra de €92 millones de euros en depósitos.
 
-<img src="{{site}}/assets/images/2019/1/01012020.png" alt="Recursos Pasivos el 1 de enero de 2020">
+<img src="/assets/images/2019/1/01012020.png" alt="Recursos Pasivos el 1 de enero de 2020">
 
 El día 2 de enero, considerando que la economía y la concesión de préstamos a particulares no ofrecían buenas perspectivas, ambos bancos invierten en Bonos del Estado todos sus recursos (100 millones de euros en ambos casos). Si analizamos el balance de ambos bancos colocando en el activo las inversiones que ambos bancos han realizado y en el pasivo el origen de los recursos necesarios para realizar dichas inversiones, nos encontraremos con lo siguiente:
 
-<img src="{{baseurl}}/assets/images/2019/1/02012020.png" alt="Balance el 2 de enero de 2020">
+<img src="/assets/images/2019/1/02012020.png" alt="Balance el 2 de enero de 2020">
 
 Mientras que el Banco Seguro solo obtuvo pasivos de sus socios (€100 M) el Banco Pseudo-Capitalista repartía el origen de sus recursos -también llamados pasivos- en la siguiente proporción: €92 M de sus depositantes (ahorradores) y €8M de sus socios capitalistas.
 
@@ -28,7 +28,7 @@ Esa nochevieja del 2020, los Consejos de Administración de ambos bancos se reun
 
 El año 2021 arrancó con turbulencias en los mercados de deuda. Los bancos centrales habían comprado casi todas las emisiones de deuda del mercado y aumentaban sus participaciones en ‘empresas estratégicas’ del mercado de valores. Se sucedían las declaraciones de los Presidentes de los Bancos Centrales de todo el mundo (pasados, presenten y futuros) para asegurar a los inversores que el sistema era solvente y Mario, el banquero central, afirmaba que harían “todo lo que fuera necesario” para que continuara siéndolo. El día a día del banco continuó sin nada destacable que contar hasta que el 28 de diciembre de 2021 se desató la que más tarde se calificaría como la ‘Jornada de los Inocentes’ y que hundió un 8% el valor de los Bonos del Estado de todo el mundo mientras los inversores pensaban que era una inocentada (en el futuro hablaremos de este tema). El 29 de diciembre 2021 los ahorradores (depositantes) del Banco Pseudo-Capitalista hacían cola en la apertura de las oficinas bancarias esperando recuperar el dinero de sus depósitos, pero los responsables del banco se encuentraban ante un dilema: si vendían su cartera de Bonos del Estado y recuperaban los €92 millones provocarían la pérdida de todo su capital y el cierre del Banco Pseudo-Capitalista, aunque podrían devolver el dinero a los depositantes, ellos quedarían arruinados.
 
-<img src="./assets/images/2019/1/29122021.png" alt="Balance el 29 de diciembre de 2021">
+<img src="{{baseurl}}./assets/images/2019/1/29122021.png" alt="Balance el 29 de diciembre de 2021">
 
 El Banco Pseudo-Capitalista se encuentraba en quiebra técnica y sus socios habían perdido todo su capital. El banco solo podría hacer frente a la devolución de sus pasivos a los depositantes. El Consejo se reunió de urgencia y decidieron que habiendo perdido todo su capital lo mejor sería enviar a uno de sus socios, que mantenía buenas relaciones con el Gobierno, para solicitar un poco más de tiempo. Los responsables del Banco de España realizaron declaraciones, en el Telediario de esa noche, explicando que la situación desesperada de los mercados obligaba a tomar decisiones excepcionales, pero que teniendo en cuenta la solidez del sistema y que las cuentas de los depositantes se encuentran garantizadas por el Fondo De Garantía de Depósitos hasta 100.000€, no había nada
 que temer. En unos días, cuando la situación normal quedara reestablecida, se procedería a la reapertura de las oficinas y al normal reembolso de los depósitos de los ahorradores.
@@ -39,7 +39,7 @@ El Banco Seguro, mientras tando, asumió que las pérdidas se repartirían entre
 
 El día 30 de diciembre de 2021 se produciría la gran caída de los mercados mundiales de deuda, cuando los inversores se dieron cuenta de que lo único que garantizaba el valor de los activos era la capacidad de los bancos centrales de imprimir dinero para comprar esa deuda y mantener su valor sustituyendo a los inversores privados, con dinero público. Los banqueros centrales estaban rescantando la Deuda Pública con el dinero de la imprenta del Banco Central. Nadie quiso más bonos y las ventas se sucedieron en cascada hasta hacer perder 99% de su valor a los títulos, mientras los ciudadanos buscaban deshacerse del dinero en efectivo para adquirir bienes raíces. Solo los bienes tangibles y que se podían tocar, eran apreciados. La economía financiera y los mercados estaban quebrados,
 
-<img src="/assets/images/2019/1/30122021.png" alt="Balance el 30 de diciembre de 2021">
+<img src="{{baseurl}}/images/2019/1/30122021.png" alt="Balance el 30 de diciembre de 2021">
 
 En ambos casos, tanto la cartera de Bonos del Estado del Banco Pseudo-Capitalista, como del Banco Seguro, asumieron pérdidas de €99 millones. Sin embargo, el resultado fue desigual. El Banco Pseudo-Capitalista repartió el millón restante entre sus 920 depositantes (devolviendo. €1.087 a cada uno: 1 € por cada 100€ depositados) y obligó a los depositantes a recurrir al Fondo de Garantía de Depósitos para recuperar la diferencia. Dicho Fondo de Garantía de Depósitos cumplió su promesa de cubrir los 100.000€ a sus asegurados el verano siguiente de 2022, cuando el precio de una barra de pan había pasado a costar 50.000€ (República de Weimar). Posteriormente, en otoño se rebautizo la moneda europea (paso de llamarse Euro a ECU) y quitando cuatro ceros de sus billetes, 100.000€ pasaron a ser 10€. Los precios fueron controlados por el gobierno y los bienes confiscados. Sólo aquellos ciudadnos que pudieron conseguir escapar del país con los bienes que pudieron transportar, salvaron su patrimonio.
 
