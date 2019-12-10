@@ -4,20 +4,14 @@
 
 layout: home
 ---
-¿A ti también te parece que en los últimos años todo ha cambiado para seguir igual? Sin embargo, quejarnos sobre la clase política no ha conseguido que mejoren las cosas en los últimos 40 años, así que este partido nace para los que quieran dejar de sentirse utilizados cada 4 años o cada vez que los partidos necesitan tu voto.
+¿A ti también te parece que en los últimos años todo ha cambiado para seguir igual que siempre? Sin embargo, quejarnos sobre la clase política no ha servido para que los nuevos partidos haya mejorado tu situación. Este partido nace para que tú puedas actuar y dejes de sentirse utilizado cada 4 años (o cada vez que los partidos necesitan tu voto).
 
 Las principales líneas de actuación son:
 
-1.	INICIATIVAS LEGISLATIVAS POPULARES: Apoyar iniciativas legislativas populares utilizando nuestro partido político como cauce con la única intención de servir al votante.
-2.	ESCAÑOS VACIOS: Dejar vacíos los escaños del Senado para visibilizar el descontento de la ciudadanía con la clase política.
-3.	DEMOCRACIA DIRECTA: Permitir a nuestros votantes y simpatizantes tomar las decisiones en aquellas materias que se voten en el Congreso mientras no se haya implantado un sistema de [Democracia 4.0 ](https://15mpedia.org/wiki/Democracia_4.0). Nuestros diputados se limitarán a pulsar el botón que haya resultado ganador de la consulta a nuestros votantes y simpatizantes.
-4.	FINANCIACIÓN PRIVADA: Rechazar todas las ayudar públicas y demostrar hasta dónde puede llegar un partido político que no recibe ninguna subvención pública.
-
-Las cuatro actuaciones buscan una Reforma de la Ley Electoral para conseguir:
-
-1.	ILP: Reducir a 100.000 las firmas necesarias para iniciar una ILP y que la ciudadanía pueda contar con un sistema de firma electrónico sencillo que les permitan apoyar dichas iniciativas.
-2.	EV: Que aquellos votantes, no satisfechos con ninguna candidatura electoral y que expresen su voto en blanco, puedan, en caso de sumar los votos necesarios, ver su deseo materializado en forma de escaños vacíos.
-3.	DD: Que todo ciudadano pueda ejercer su derecho al voto telemáticamente (DNIe) y que dicho voto se reste de la cuota de representación que le corresponde en el  parlamento ([Democracia 4.0 ](https://15mpedia.org/wiki/Democracia_4.0)).
-4.	FP: Reducir progresivamente las subvenciones de los partidos políticos.
+1.	INICIATIVAS LEGISLATIVAS POPULARES: Apoyando iniciativas legislativas populares y utilizando nuestro partido político como herramienta para que el ciudadano pueda para llegar al Congreso. Queremos cambiar la ley: reduciendo a 100.000 las firmas necesarias para iniciar una ILP y que la ciudadanía pueda contar con un sistema de firma electrónico sencillo que les permita apoyar dichas iniciativas.
+2.	ESCAÑOS VACIOS: Dejar vacíos los escaños del Senado para visibilizar el descontento de la ciudadanía con la clase política y que aquellos votantes, no satisfechos con ninguna candidatura electoral y que expresen su voto en blanco, puedan - en caso de sumar los votos necesarios - ver su deseo materializado en forma de escaños vacíos.
+3.	DEMOCRACIA DIRECTA: Permitir a nuestros votantes y simpatizantes tomar las decisiones en aquellas materias que se voten en el Congreso mientras no se haya implantado un sistema de [Democracia 4.0 ](https://15mpedia.org/wiki/Democracia_4.0). Nuestros diputados - elegidos por sorteo- se limitarán a pulsar el botón que haya resultado ganador de la consulta a nuestros votantes y simpatizantes. Que todo ciudadano pueda ejercer su derecho al voto telemáticamente (DNIe) y que dicho voto se reste de la cuota de representación que le corresponde en el parlamento.
+4.	FINANCIACIÓN PRIVADA: Rechazar todas las ayudas públicas y demostrar hasta dónde puede llegar un partido político que no recibe ningún tipo de subvención con el objetivo de reducir progresivamente las subvenciones de los partidos políticos.
+5.  NO ACEPTAMOS CARGOS: El objetivo del resto de partidos es ostentar el poder para - según dicen ellos - cambiar las cosas. Sin embargo, el poder se convierte en el mismo fin. ¿Qué pasaría si quitarmos los cargos de la ecuación? El objetivo del partido es servir de herramienta a sus votantes, no representarlos. Por lo tanto, no somos ministeriables, ni formaremos parte de gobiernos.
 
 Las iniciativas políticas dependen de ti. Iremos añadiendo las medidas que recibamos y consideremos de interés público. Si quieres contactarnos porque perteneces a un grupo o una organización que desea visibilizar sus propuestas, ponte en contacto con nosotros por email. Se breve y ten paciencia, nuestros recursos son limitados.

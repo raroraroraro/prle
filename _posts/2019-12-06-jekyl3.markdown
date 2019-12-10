@@ -3,6 +3,7 @@ layout: post
 title:  "Igualdad en las Pensiones de nuestros Políticos"
 date:   2019-12-03 01:13:59 +0100
 categories: jekyll update
+permalink: /igualdad-en-las-pensiones-de-nuestros-politicos/
 ---
 Quizá sea de los que aún piensan que todos los trabajadores somos iguales. Aparte los objetos cortantes de su alredeor antes de seguir leyendo el artículo 2 del [¡Reglamento de pensiones parlamentarias!](www.congreso.es/public_oficiales/L8/CORT/BOCG/A/CG_A278.PDF) de fecha 11 de junio de 2006:
 
