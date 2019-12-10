@@ -14,7 +14,7 @@ Esa misma noche, 8 socios distintos se reunieron en el otro extremo de la ciudad
 
 Ambos bancos abrieron sus puertas el 1 de enero de 2020, aunque lo hicieron con distintas estrategias comerciales: mientras el Banco Seguro no aceptaba depósitos de clientes, el Banco Pseudo-Capitalista se lanzó a una agresiva campaña de captación de pasivos (con la que consiguieron captar 920 clientes de 100.000€) alcanzando la cifra de €92 millones de euros en depósitos.
 
-<img src="/assets/images/2019/1/01012020.png" alt="Recursos Pasivos el 1 de enero de 2020">
+<img src="{{site}}/assets/images/2019/1/01012020.png" alt="Recursos Pasivos el 1 de enero de 2020">
 
 El día 2 de enero, considerando que la economía y la concesión de préstamos a particulares no ofrecían buenas perspectivas, ambos bancos invierten en Bonos del Estado todos sus recursos (100 millones de euros en ambos casos). Si analizamos el balance de ambos bancos colocando en el activo las inversiones que ambos bancos han realizado y en el pasivo el origen de los recursos necesarios para realizar dichas inversiones, nos encontraremos con lo siguiente:
 
