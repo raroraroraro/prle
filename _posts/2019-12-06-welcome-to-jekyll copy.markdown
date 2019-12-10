@@ -18,7 +18,7 @@ Ambos bancos abrieron sus puertas el 1 de enero de 2020, aunque lo hicieron con 
 
 El día 2 de enero, considerando que la economía y la concesión de préstamos a particulares no ofrecían buenas perspectivas, ambos bancos invierten en Bonos del Estado todos sus recursos (100 millones de euros en ambos casos). Si analizamos el balance de ambos bancos colocando en el activo las inversiones que ambos bancos han realizado y en el pasivo el origen de los recursos necesarios para realizar dichas inversiones, nos encontraremos con lo siguiente:
 
-<img src="../assets/images/2019/1/02012020.png" alt="Balance el 2 de enero de 2020">
+<img src="{{baseurl}}/assets/images/2019/1/02012020.png" alt="Balance el 2 de enero de 2020">
 
 Mientras que el Banco Seguro solo obtuvo pasivos de sus socios (€100 M) el Banco Pseudo-Capitalista repartía el origen de sus recursos -también llamados pasivos- en la siguiente proporción: €92 M de sus depositantes (ahorradores) y €8M de sus socios capitalistas.
 
