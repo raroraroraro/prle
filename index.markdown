@@ -16,4 +16,4 @@ Las principales líneas de actuación son:
 
 Si algunas de estas ideas te recuerdan a otros partidos, quizá sea hora de que piensen si esos partidos te han fallado!
 
-Las iniciativas políticas dependen de ti! Iremos añadiendo las medidas que recibamos y consideremos de interés público. Si quieres contactarnos porque perteneces a un grupo o una organización que desea visibilizar sus propuestas, ponte en contacto con nosotros por email. Se breve y ten paciencia, nuestros recursos son muy limitados.
+Las iniciativas políticas dependen de ti. Iremos añadiendo las medidas que recibamos y consideremos de interés público. Si quieres contactarnos porque perteneces a un grupo o una organización que desea visibilizar sus propuestas, ponte en contacto con nosotros por email. Se breve y ten paciencia, nuestros recursos son muy limitados.
