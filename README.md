@@ -1,4 +1,4 @@
-¿A ti también te parece que en los últimos años todo ha cambiado para seguir igual que siempre? Sin embargo, quejarnos sobre la clase política no ha servido para que los nuevos partidos te hagan sentirte mejor representado. Este partido nace para que tú puedas actuar y dejes de sentirse utilizado cada 4 años (o cada vez que los partidos necesitan tu voto).
+¿A ti también te parece que en los últimos años todo ha cambiado para seguir igual que siempre? Seguimos votando a personas en vez de escoger leyes o apoyar iniciativas. Seguimos quejándonos de la clase política, pero no nos sentimos mejor representados. Este partido nace para que tú puedas actuar y dejes de sentirse utilizado cada 4 años (o cada vez que los partidos necesitan tu voto).
 
 Las principales líneas de actuación son:
 
