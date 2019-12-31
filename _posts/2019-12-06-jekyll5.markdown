@@ -6,7 +6,7 @@ categories: jekyll update
 permalink: /feliz-2020-presidente-pedro-sanchez/
 ---
 
-<img src="/assets/images/2019/12/memePSOE.jpg" alt="PedroSanchezObreroEspañol">
+<img src="../assets/images/2019/12/memePSOE.jpg" alt="PedroSanchezObreroEspañol">
 
 Desde nuestro partido le deseamos una legislatura llena de mejoras para los españoles, que buena falta nos hace. Tras leer el texto de Coalición Progresista: Un nuevo acuerdo para España. Hay que reconocer que sus intenciones son buenas, aunque, por otro lado, ¿cuándo ha tenido un presidente malas intenciones para su legislatura?
 
