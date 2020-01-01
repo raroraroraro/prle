@@ -6,7 +6,7 @@ categories: jekyll update
 permalink: /justicia-española-Puigdemont/
 ---
 
-<img src="../assets/images/2020/01/cicero.jpg" alt="Cicero">
+<img src="../assets/images/2019/12/cicero.jpg" alt="Cicero">
 
 La revista [Cicero](https://www.cicero.de/karikaturen/wie-sie-im-fall-puidgemont-da-steht?fbclid=IwAR3hdJ9b_AMNsgkH6oUge1jTShfD8j6ulWUWM6uhigY9o0CM5wN6rjK4Bbk) publica una viñeta muy descriptiva de la situación de la justicia española en relación al caso Puigdemont.
 
