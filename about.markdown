@@ -24,6 +24,8 @@ Muchos nos llamarán raros de una forma despectiva aunque el verdadero significa
 
 5. adj. Extravagante de genio o de comportamiento y propenso a singularizarse.
 
+Nosotros estamos aquí, intentando hacer las cosas bien, por si algún día quieres molestarte en buscarnos. Si tardas mucho y esperas a que el lodazal te cubra la nariz, pues quizá es que debiste empezar a preocuparte antes. En cualquier caso, la culpa no es de nadie más que de ti mismo y hasta que no aceptes tu responsabilidad, el problema no mejorará.
+
 
 - ¿Cómo se organiza el partido?
 
