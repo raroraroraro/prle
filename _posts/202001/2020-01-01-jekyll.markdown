@@ -6,7 +6,7 @@ categories: jekyll update
 permalink: /deja-que-Junqueras-pilote-un-rato/
 ---
 
-<img src="../../assets/images/2020/01/20200101a2.jpg" alt="PedroSanchezObreroEspañol">
+<img src="../assets/images/2020/01/20200101a2.jpg" alt="PedroSanchezObreroEspañol">
 
 Es uno de los peligros de la democracia directa, que tus votantes no calculen bien las consecuencias de sus votos y a la larga se arrepientan de lo que han escogido. Sin embargo, eso también es uno de los peligros de la democracia representativa cuando eliges a Pedro Sánchez, que negocia libremente con ERC y tú acabas saliendo perjudicado.
 
