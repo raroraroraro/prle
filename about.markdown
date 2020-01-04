@@ -4,7 +4,7 @@ title: Acerca de
 permalink: /about/
 ---
 
-- **¿Por qué somos el Partido Raro?**
+###- **¿Por qué somos el Partido Raro?**
 
 Pues sencillamente porque a lo único que aspiramos, en este momento, es a no parecernos a ningún otro partido político. La sensación de hartazgo con la bronca política en general, y con la clase política en particular, es la principal motivación para montar este partido y si bien igual no tenemos muy claro lo que seremos en el futuro, lo que nos une hoy, es tener muy claro lo que no queremos acabar siendo. ¿Verdad que no hace falta explicarlo mejor?
 
@@ -12,7 +12,7 @@ Es raro que un votante se interese por entender un problema en profundidad y est
 
 Es cierto, nada es sencillo. ¿Acaso debemos sentirnos culpables por ignorar que el fondo de inversión que gestiona nuestra pensión ha invertido en un conglomerado industrial que posee una compañía que vende armas a un régimen dictatorial? Quizá seamos culpables, pero en el mundo complejo en el que vivimos resulta complicado poseer toda la información y tener el tiempo para analizarla. Parece imprescindible especializarnos en el análisis de la información que mejor conocemos y cooperar en dicho análisis compartiéndolo con el resto del grupo, para librarnos, en la medida de lo posible, de los intereses mediáticos y de los grupos de interés, en la era de la propaganda, las noticias falsas y la posverdad. Seguramente será imposible conseguirlo, pero acercarse merecerá la pena, por muy raros que parezcamos al hacerlo.
 
-Muchos nos llamarán raros de una forma despectiva aunque el verdadero significado de la palabra sea otro: Del lat. rarus.
+Muchos nos llamarán raros de una forma despectiva aunque el verdadero significado de la palabra sea otro: *Del lat. rarus.
 
 1. adj. Que se comporta de un modo inhabitual.
 
@@ -22,12 +22,12 @@ Muchos nos llamarán raros de una forma despectiva aunque el verdadero significa
 
 4. adj. Insigne, sobresaliente o excelente en su línea.
 
-5. adj. Extravagante de genio o de comportamiento y propenso a singularizarse.
+5. adj. Extravagante de genio o de comportamiento y propenso a singularizarse.*
 
 Nosotros estamos aquí, intentando hacer las cosas bien, por si algún día quieres molestarte en buscarnos. Si tardas mucho y esperas a que el lodazal te cubra la nariz, pues quizá es que debiste empezar a preocuparte antes. En cualquier caso, la culpa no es de nadie más que de ti mismo y hasta que no aceptes tu responsabilidad, el problema no mejorará.
 
 
-- **¿Cómo se organiza el partido?**
+###- **¿Cómo se organiza el partido?**
 
 Una de las mayores dificultades a la hora de organizar a un grupo de personas para conseguir un objetivo consiste en alinear los intereses personales, con los del equipo y con los de toda la organización. Sea una empresa, un partido político o hasta un grupo de amigos resulta muy difícil lograr que se cumpla el siguiente objetivo:
 
