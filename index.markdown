@@ -21,6 +21,6 @@ Las principales líneas de actuación son:
 <iframe width="480" height="360" src="//www.youtube.com/embed/J1b4nJEfdLw" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 [Intervención de Pepe Mujica:](https://youtu.be/J1b4nJEfdLw)
 
-¡Si algunas de estas ideas te recuerdan a otros partidos, quizá sea hora de que pienses en si esos partidos te han fallado!
+¡Si algunas de estas ideas te recuerdan a otros partidos, quizá sea hora de que pienses si esos partidos te han fallado!
 
 Las iniciativas políticas dependen de ti y del apoyo que logres. Iremos añadiendo las medidas que recibamos y consideremos de interés público. Si quieres contactarnos porque perteneces a un grupo o una organización que desea visibilizar sus propuestas, escríbenos un correo electrónico. Sé breve y ten paciencia, nuestros recursos son muy limitados.
