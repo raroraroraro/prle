@@ -18,7 +18,7 @@ Las principales líneas de actuación son:
 
 **5.  NO ACEPTAMOS CARGOS:** El objetivo del resto de partidos es ostentar el poder para - según dicen ellos - cambiar las cosas. Sin embargo, un instante después de recibir el apoyo necesario, el poder se convierte en el único fin del partido y el cambio se convierte en la excusa. ¿Qué pasaría si quitáramos los cargos de esta ecuación? **El objetivo del Partido Raro es servir como herramienta a sus votantes, no representarlos.** Para eso, ¿qué necesidad hay de ostentar cargos públicos? Ninguna, ¿verdad? Nuestro partido no formará parte de gobiernos o ejecutivos a ningún nivel.
 
-<iframe width="480" height="360" src="//www.youtube.com/watch?v=J1b4nJEfdLw" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="480" height="360" src="//www.youtube.com/embed/J1b4nJEfdLw" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 [Intervención de Pepe Mujica:](https://youtu.be/J1b4nJEfdLw)
 
 ¡Si algunas de estas ideas te recuerdan a otros partidos, quizá sea hora de que pienses en si esos partidos te han fallado!
