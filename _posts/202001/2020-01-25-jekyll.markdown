@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Información sobre el Coronavirus: 2019-nCoV"
+date:   2020-01-25 01:30:30 +0100
+categories: jekyll update
+permalink: /pandemia-coronavirus/
+---
+
+Hasta el momento, las buenas noticias son que, probablemente, esto se quedará en nada (sobre todo teniendo en cuenta la alarma que se va a generar).
+
+Hasta el momento, las malas noticias son que en España no somos japoneses, es decir, no somos organizados, nos cuesta horrores dejar de ser individualistas y no tenemos por costumbre recabar la máxima información de utilidad. Por si esto no fuera suficiente, nuestras autoridades piensan que es mejor no 'alarmar' a la población. El resultado suele ser que nadie se alarma, hasta que todo el mundo se alarma al mismo tiempo y demasiado tarde. Por eso, intentemos por una vez, reunir la máxima información sin caer en la histeria. Alármense, pero con frialdad, sin perder la calma, porque alarmarse no es malo, perder los papeles, sí lo es.
+
+Así que hagan un plan mental que les permita tener claro lo que tienen que hacer en caso de llegar la circunstancia, pero sin adelantar acontecimientos. Prepárense, adelantándose en la información y no a los hechos.
+
+Primer dato alarmista: se [publican](https://www.zerohedge.com/geopolitical/uk-researcher-predicts-over-250000-people-china-will-have-coronavirus-ten-days) predicciones de que el virus podrá llegar a contagiar a 250.000 personas en China para el 4 de febrero según un [estudio preliminar](https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v1.full.pdf).
+
+El número básico de reproducción (a veces llamado ritmo básico de reproducción, ratio reproductiva básica y denotadas por [R0](https://es.wikipedia.org/wiki/Ritmo_reproductivo_b%C3%A1sico), r sub-cero) de una infección es el número promedio de casos nuevos que genera un caso dado a lo largo de un período infeccioso. Es una métrica útil dado que ayuda a determinar cuando una enfermedad infecciosa puede dar lugar a un brote epidémico serio. La tasa R0 del Coronavirus: 2019-nCoV se ha establecido preliminarmente entre 1.4-2.5 por la WHO/OMS: https://www.who.int/news-room/detail/23-01-2020-statement-on-the-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov). De los casos confirmados, se informa que el 25% son graves. La fuente aún se desconoce (muy probablemente un reservorio animal) y el alcance de la transmisión de persona a persona aún no está claro.
+
+| Enfermedad | Transmisión	| R0 |
+|-------|--------|---------|
+| Sarampión	| Aérea |	12–18 |
+| Tos ferina |	Gotitas en aire	| 12–17 |
+| Difteria	| Saliva	| 6–7 |
+| Viruela	 | Contacto sicial |	5–7 |
+| Polio	| Ruta oral-fecal |	5–7 |
+| Rubéola	| Gotitas en aire |	5–7 |
+| Paperas	| Gotitas en aire	| 4–7 |
+| VIH/SIDA	| Contacto sexual	| 2–5 |
+| SARS	| Gotitas en aire	| 2–52 |
+| Influenza (pandemia de 1918) |	Gotitas en el aire	| 2–33 |
+| Ébola	| Contacto con órganos o líquidos	| 2-3 |
+
+Casi nada. Esa es la hipótesis de trabajo de Jonathan Read, un experto del Reino Unido en la transmisión y la dinámica evolutiva de las enfermedades infecciosas, quien ha publicado un artículo con cuatro colegas que estima los parámetros de transmisión para el coronavirus de Wuhan  y que calcula que el R 0 de 2019-nCoV será entre 3.6-4.0 o aproximadamente lo mismo que el SARS, y llega a una conclusión sobre la propagación de la epidemia de coronavirus que es francamente alarmista.
+Es una tasa que duplica la estimación de la OMS, pero que quizá debamos tener en cuenta si contamos con que las autoridades chinas no son especialmente proclives a reflejar los datos reales en sus estadísticas.
+Read reconoce que existe la posibilidad de que sus predicciones no sean acertadas debido a errores en los supuestos de base. Extrapolando los datos que se tienen en la actualidad y con aproximadamente 1.100 casos confirmados y 41 muertos, la tasa de mortalidad de la enfermedad está en el 3,7% (dentro del rango 2,5%-4%) de Read. Eso significa que si 250.000 personas se contagian antes del 4 de febrero, unas 10.000 están en riesgo de morir en las próximas semanas.
+
+**¿Llegara a España la super-gripe?**
+
+Los países con mayor riesgo de importar infecciones a través del transporte aéreo son Tailandia, Japón, Taiwán, Hong Kong, Corea del Sur, Estados Unidos, Malasia, Singapur, Australia y Vietnam. Desde Asia se infectará el resto del mundo, así que mejor nos vamos preparando para cuando llegue ¿no?
