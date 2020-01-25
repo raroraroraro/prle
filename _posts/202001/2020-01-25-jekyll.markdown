@@ -31,8 +31,11 @@ El número básico de reproducción (a veces llamado ritmo básico de reproducci
 | Ébola	| Contacto con órganos o líquidos	| 2-3 |
 
 Casi nada. Esa es la hipótesis de trabajo de Jonathan Read, un experto del Reino Unido en la transmisión y la dinámica evolutiva de las enfermedades infecciosas, quien ha publicado un artículo con cuatro colegas que estima los parámetros de transmisión para el coronavirus de Wuhan  y que calcula que el R 0 de 2019-nCoV será entre 3.6-4.0 o aproximadamente lo mismo que el SARS, y llega a una conclusión sobre la propagación de la epidemia de coronavirus que es francamente alarmista.
+
 Es una tasa que duplica la estimación de la OMS, pero que quizá debamos tener en cuenta si contamos con que las autoridades chinas no son especialmente proclives a reflejar los datos reales en sus estadísticas.
 Read reconoce que existe la posibilidad de que sus predicciones no sean acertadas debido a errores en los supuestos de base. Extrapolando los datos que se tienen en la actualidad y con aproximadamente 1.100 casos confirmados y 41 muertos, la tasa de mortalidad de la enfermedad está en el 3,7% (dentro del rango 2,5%-4%) de Read. Eso significa que si 250.000 personas se contagian antes del 4 de febrero, unas 10.000 están en riesgo de morir en las próximas semanas.
+
+<img src="../assets/images/2020/01/20200125f1.jpg" alt="Tasa">
 
 **¿Llegara a España la super-gripe?**
 
@@ -45,3 +48,5 @@ Los medios de comunicación todavía no son demasiado alarmistas con la situaci�
 <img src="../assets/images/2020/01/20200125f3.jpg" alt=" Teresa Romero ">
 
 Mucha más tinta se gasto en escribir acerca de las causas que provocaron el contagio, que en intentar prevenir la crisis. Estamos hablando de que se produjeron algunos casos aislados, no miles de casos. Tras las desastrosas declaraciones de Ana Mato, en aquellos tiempos ministra de Sanidad, dio paso a un afortunado acontecimiento: la entrada en escena del director del Centro de Alertas y Emergencias Sanitarias del Ministerio de Sanidad, Fernando Simón. Algo hemos debido de aprender porque en esta ocasión [parece que se ha cogido los mandos desde el principio](https://www.redaccionmedica.com/protagonista/fernando-simon-sanidad-informa-sobre-la-situacion-de-espana-ante-el-coronavirus-chino-1327).
+
+Sin embargo, nuestra sanidad sigue estando mal financiada. Sigue ganando más el concejal de festejos de un pueblo mediano que un neurólogo en residencia. Seguimos gastando más en burócratas y políticos bableantes que en pagar bien a nuestros profesionales médicos y quieras que no, lo acabaremos lamentando en el momento en que más los necesitemos... en un crisis.
