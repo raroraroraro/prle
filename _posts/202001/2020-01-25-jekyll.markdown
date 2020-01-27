@@ -8,10 +8,12 @@ permalink: /pandemia-coronavirus/
 
 **ACTUALIZADO A 27/01/2020.**
 
-CASOS REGISTRADOS A 27/01/2020 12:00 AM Hora China: 2.744 (Recuento mundial: 2.807)
+CASOS REGISTRADOS A 27/01/2020 12:00 AM Hora China: 2.744 (Recuento oficial mundial: 2.807)
 DECESOS: 80
 TASA DE DEFUNCIÓN: >5%
 - La incubación es asintomática y contagiosa, llegando a durar 14 días.
+
+ACTUALIZACIÓN: Según [The Guardian](https://www.theguardian.com/science/2020/jan/26/coronavirus-could-infect-100000-globally-experts-warn) los expertos consultados cifran en más de 100.000 las personas contagiadas. El decano de la facultad de medicina de Hong-Kong cifra en 44.000 los contagios en Wuhan.
 
 Hasta el momento, las buenas noticias son que, con un poco de información su capacidad de reacción y de sus posibilidades para no contraer la enfermedad aumentan considerablemente.
 
@@ -21,7 +23,9 @@ Así que hagan un plan mental que les permita tener claro lo que tienen que hace
 
 Primer dato alarmista: se [publican](https://www.zerohedge.com/geopolitical/uk-researcher-predicts-over-250000-people-china-will-have-coronavirus-ten-days) predicciones de que el virus podrá llegar a contagiar a 250.000 personas en China para el 4 de febrero según un [estudio preliminar](https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v1.full.pdf).
 
-El número básico de reproducción (a veces llamado ritmo básico de reproducción, ratio reproductiva básica y denotadas por [R0](https://es.wikipedia.org/wiki/Ritmo_reproductivo_b%C3%A1sico), r sub-cero) de una infección es el número promedio de casos nuevos que genera un caso dado a lo largo de un período infeccioso. Es una métrica útil dado que ayuda a determinar cuando una enfermedad infecciosa puede dar lugar a un brote epidémico serio. Tasas inferiores a 1 hacen que la expansión del virus sea muy baja y que tienda a agotarse por su dificultad de transmisión, pero tasas superiores a 1 demuestran una alta capacidad de transmisión. Si añadimos a eso la capacidad del virus para transmitirse antes de provocar los síntomas en el paciente, la detección y aislamiento de los casos se complica mucho, tal y como afirman los patólogos. La tasa R0 del Coronavirus: 2019-nCoV se ha establecido preliminarmente entre 1.4-2.5 por la WHO/OMS: https://www.who.int/news-room/detail/23-01-2020-statement-on-the-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov). De los casos confirmados, se informa que el 25% son graves. La fuente aún se desconoce (muy probablemente un reservorio animal) y el alcance de la transmisión de persona a persona aún no está claro.
+El número básico de reproducción (a veces llamado ritmo básico de reproducción, ratio reproductiva básica y denotadas por [R0](https://es.wikipedia.org/wiki/Ritmo_reproductivo_b%C3%A1sico), r sub-cero) de una infección es el número promedio de casos nuevos que genera un caso dado a lo largo de un período infeccioso. Es una métrica útil dado que ayuda a determinar cuando una enfermedad infecciosa puede dar lugar a un brote epidémico serio. Tasas inferiores a 1 hacen que la expansión del virus sea muy baja y que tienda a agotarse por su dificultad de transmisión, pero tasas superiores a 1 demuestran una alta capacidad de transmisión. Si añadimos a eso la capacidad del virus para transmitirse antes de provocar los síntomas en el paciente, la detección y aislamiento de los casos se complica mucho, tal y como afirman los patólogos. La tasa R0 del Coronavirus: 2019-nCoV se ha establecido preliminarmente entre 1.4-2.5 por la WHO/OMS: https://www.who.int/news-room/detail/23-01-2020-statement-on-the-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov). De los casos confirmados, se informa que el 25% son graves.
+
+Según [The Guardian](https://www.theguardian.com/science/2020/jan/26/coronavirus-could-infect-100000-globally-experts-warn) los expertos consultados cifran en más de 100.000 las personas contagiadas. El decano de la facultad de medicina de Hong-Kong cifra en 44.000 los contagios en Wuhan.
 
 | Enfermedad | Transmisión	| R0 |
 |-------|--------|---------|
