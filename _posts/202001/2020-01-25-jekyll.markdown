@@ -6,15 +6,17 @@ categories: jekyll update
 permalink: /pandemia-coronavirus/
 ---
 
-Hasta el momento, las buenas noticias son que, probablemente, esto se quedará en nada (sobre todo teniendo en cuenta la alarma que se va a generar).
+**ACTUALIZADO A 27/01/2020.**
 
-Hasta el momento, las malas noticias son que en España no somos japoneses, es decir, no somos organizados, nos cuesta horrores dejar de ser individualistas y no tenemos por costumbre recabar la máxima información de utilidad. Por si esto no fuera suficiente, nuestras autoridades piensan que es mejor no 'alarmar' a la población. El resultado suele ser que nadie se alarma, hasta que todo el mundo se alarma al mismo tiempo y demasiado tarde. Por eso, intentemos por una vez, reunir la máxima información sin caer en la histeria. Alármense, pero con frialdad, sin perder la calma, porque alarmarse no es malo, perder los papeles, sí lo es.
+Hasta el momento, las buenas noticias son que, con un poco de información su capacidad de reacción y de sus posibilidades para no contraer la enfermedad aumentan considerablemente.
+
+Por el momento, las malas noticias son que en España no somos japoneses, es decir, no somos organizados, nos cuesta horrores dejar de ser individualistas y no tenemos por costumbre recabar la máxima información de utilidad. Por si esto no fuera suficiente, nuestras autoridades piensan que es mejor no 'alarmar' a la población. El resultado suele ser que nadie se alarma, hasta que todo el mundo se alarma al mismo tiempo y demasiado tarde. Por eso, intentemos por una vez, reunir la máxima información sin caer en la histeria. Alármense, pero con frialdad, sin perder la calma, porque alarmarse no es malo, perder los papeles, sí lo es.
 
 Así que hagan un plan mental que les permita tener claro lo que tienen que hacer en caso de llegar la circunstancia, pero sin adelantar acontecimientos. Prepárense, adelantándose en la información y no a los hechos.
 
 Primer dato alarmista: se [publican](https://www.zerohedge.com/geopolitical/uk-researcher-predicts-over-250000-people-china-will-have-coronavirus-ten-days) predicciones de que el virus podrá llegar a contagiar a 250.000 personas en China para el 4 de febrero según un [estudio preliminar](https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v1.full.pdf).
 
-El número básico de reproducción (a veces llamado ritmo básico de reproducción, ratio reproductiva básica y denotadas por [R0](https://es.wikipedia.org/wiki/Ritmo_reproductivo_b%C3%A1sico), r sub-cero) de una infección es el número promedio de casos nuevos que genera un caso dado a lo largo de un período infeccioso. Es una métrica útil dado que ayuda a determinar cuando una enfermedad infecciosa puede dar lugar a un brote epidémico serio. La tasa R0 del Coronavirus: 2019-nCoV se ha establecido preliminarmente entre 1.4-2.5 por la WHO/OMS: https://www.who.int/news-room/detail/23-01-2020-statement-on-the-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov). De los casos confirmados, se informa que el 25% son graves. La fuente aún se desconoce (muy probablemente un reservorio animal) y el alcance de la transmisión de persona a persona aún no está claro.
+El número básico de reproducción (a veces llamado ritmo básico de reproducción, ratio reproductiva básica y denotadas por [R0](https://es.wikipedia.org/wiki/Ritmo_reproductivo_b%C3%A1sico), r sub-cero) de una infección es el número promedio de casos nuevos que genera un caso dado a lo largo de un período infeccioso. Es una métrica útil dado que ayuda a determinar cuando una enfermedad infecciosa puede dar lugar a un brote epidémico serio. Tasas inferiores a 1 hacen que la expansión del virus sea muy baja y que tienda a agotarse por su dificultad de transmisión, pero tasas superiores a 1 demuestran una alta capacidad de transmisión. Si añadimos a eso la capacidad del virus para transmitirse antes de provocar los síntomas en el paciente, la detección y aislamiento de los casos se complica mucho, tal y como afirman los patólogos. La tasa R0 del Coronavirus: 2019-nCoV se ha establecido preliminarmente entre 1.4-2.5 por la WHO/OMS: https://www.who.int/news-room/detail/23-01-2020-statement-on-the-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov). De los casos confirmados, se informa que el 25% son graves. La fuente aún se desconoce (muy probablemente un reservorio animal) y el alcance de la transmisión de persona a persona aún no está claro.
 
 | Enfermedad | Transmisión	| R0 |
 |-------|--------|---------|
@@ -37,7 +39,23 @@ Read reconoce que existe la posibilidad de que sus predicciones no sean acertada
 
 <img src="../assets/images/2020/01/20200125f1.jpg" alt="Tasa">
 
-**¿Llegara a España la super-gripe?**
+**¿Qué medidas se deben tomar para evitar la propagación del CoronaVirus?**
+
+Las medidas básicas son las siguientes:
+
+- Evitar el contacto cercano con personas afectadas por infecciones respiratorias
+L- avarse las manos de forma frecuente, especialmente antes y después del contacto directo con personas enfermas y sus entornos
+- Mantener una distancia de un metro entre personas (aproximadamente)
+- Cubrirse la boca y la nariz con el antebrazo o pañuelos desechables al toser o estornudar y lavarse las manos después
+
+
+**¿Llegara a España la gripe de Wuhan?**
+
+Como explica en este vídeo, el Doctor Marteson (Doctor en Patología) tomar una muestra de temperatura a un pasajero de un avión en un aeropuerto es una forma poco efectiva de frenar la expansión del virus, sobre todo teniendo en cuenta que se puedan pasar 5 días en la incubación del virus.
+
+[Vídeo del Doctor Marteson:](https://youtu.be/Nk5P_iRYwTY)
+
+<iframe width="480" height="360" src="//www.youtube.com/embed/Nk5P_iRYwTY" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Los países con mayor riesgo de importar infecciones a través del transporte aéreo son Tailandia, Japón, Taiwán, Hong Kong, Corea del Sur, Estados Unidos, Malasia, Singapur, Australia y Vietnam. Desde Asia se infectará el resto del mundo, así que mejor nos vamos preparando para cuando llegue ¿no?
 
@@ -53,4 +71,4 @@ Los medios de comunicación todavía no son demasiado alarmistas con la situaci�
 
 Mucha más tinta se gasto en escribir acerca de las causas que provocaron el contagio, que en intentar prevenir la crisis. Estamos hablando de que se produjeron algunos casos aislados, no miles de casos. Tras las desastrosas declaraciones de Ana Mato, en aquellos tiempos ministra de Sanidad, dio paso a un afortunado acontecimiento: la entrada en escena del director del Centro de Alertas y Emergencias Sanitarias del Ministerio de Sanidad, Fernando Simón. Algo hemos debido de aprender porque en esta ocasión [parece que se ha cogido los mandos desde el principio](https://www.redaccionmedica.com/protagonista/fernando-simon-sanidad-informa-sobre-la-situacion-de-espana-ante-el-coronavirus-chino-1327).
 
-Sin embargo, nuestra sanidad sigue estando mal financiada. Sigue ganando más el concejal de festejos de un pueblo mediano que un neurólogo en residencia. Seguimos gastando más en burócratas y políticos bableantes que en pagar bien a nuestros profesionales médicos y quieras que no, lo acabaremos lamentando en el momento en que más los necesitemos... en un crisis.
+Sin embargo, nuestra sanidad sigue estando mal financiada. Sigue ganando más el concejal de festejos de un pueblo mediano que un neurólogo en residencia. Seguimos gastando más en burócratas y políticos bableantes que en pagar bien a nuestros profesionales médicos y quieras que no, lo acabaremos lamentando en el momento en que más los necesitemos... en una crisis.
