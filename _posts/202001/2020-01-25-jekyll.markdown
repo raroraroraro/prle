@@ -6,14 +6,18 @@ categories: jekyll update
 permalink: /pandemia-coronavirus/
 ---
 
-**ACTUALIZADO A 27/01/2020.**
+**ACTUALIZADO A 28/01/2020.**
 
-CASOS REGISTRADOS A 27/01/2020 12:00 AM Hora China: 2.744 (Recuento oficial mundial: 2.807)
-DECESOS: 80
+CASOS REGISTRADOS A 28/01/2020: Recuento oficial mundial: 4.295
+DECESOS: 106
 TASA DE DEFUNCIÓN: >5%
-- La incubación es asintomática y contagiosa, llegando a durar 14 días.
 
-ACTUALIZACIÓN 27/01/20: Según [The Guardian](https://www.theguardian.com/science/2020/jan/26/coronavirus-could-infect-100000-globally-experts-warn) los expertos consultados cifran en más de 100.000 las personas contagiadas. El decano de la facultad de medicina de Hong-Kong cifra en 44.000 los contagios en Wuhan.
+
+ACTUALIZACIÓN 28/01/2020: Se ha producido 2.714 casos en Hubei (1.291 en una noche) con 100 fallecidos. Corea del Norte ha cerrado su frontera con China. Alemania informa de su primer caso.
+
+<img src="../assets/images/2020/01/20200128f1.jpg" alt="Gráfica Contagios">
+
+-------------------------------------------------------------------------------
 
 Hasta el momento, las buenas noticias son que con un poco de información su capacidad de reacción y sus posibilidades para no contraer la enfermedad aumentarán considerablemente. Las malas noticias son que en España no somos japoneses, es decir, no somos organizados, nos cuesta horrores dejar de ser individualistas y no tenemos por costumbre recabar la máxima información de utilidad de antemano. Por si esto no fuera suficiente, nuestras autoridades piensan que es mejor no 'alarmar' a la población. El resultado suele ser que nadie se alarma, hasta que todo el mundo se alarma al mismo tiempo y demasiado tarde. Por eso, intentemos por una vez, reunir la máxima información sin caer en la histeria. Alármense, pero con frialdad, sin perder la calma, porque alarmarse y reaccionar no es malo, perder los papeles, sí lo es. Así que hagan un plan mental que les permita tener claro lo que tienen que hacer en caso de llegar la circunstancia, pero sin adelantar acontecimientos. Prepárense, adelantándose en la información y no a los hechos.
 
@@ -77,3 +81,12 @@ Los medios de comunicación todavía no son demasiado alarmistas con la situaci�
 Mucha más tinta se gasto en escribir acerca de las causas que provocaron el contagio, que en intentar prevenir la crisis. Estamos hablando de que se produjeron algunos casos aislados, no miles de casos. Tras las desastrosas declaraciones de Ana Mato, en aquellos tiempos Ministra de Sanidad, dio paso a un afortunado acontecimiento: la entrada en escena del director del Centro de Alertas y Emergencias Sanitarias del Ministerio de Sanidad, Fernando Simón. Algo hemos debido de aprender porque en esta ocasión [parece que se ha cogido los mandos desde el principio](https://www.redaccionmedica.com/protagonista/fernando-simon-sanidad-informa-sobre-la-situacion-de-espana-ante-el-coronavirus-chino-1327).
 
 Sin embargo, nuestra sanidad sigue estando mal financiada. Un concejal de fesejeos de un pueblo mediano sigue ganando más  que un neurólogo en residencia. Continuamos gastando más en burócratas y políticos bableantes que en pagar bien a nuestros profesionales médicos y quieras que no, lo acabaremos lamentando en el momento en que más los necesitemos... durante la próxima crisis.
+
+-------------------------------------------------------------------------------
+
+CASOS REGISTRADOS A 27/01/2020 12:00 AM Hora China: 2.744 (Recuento oficial mundial: 2.807)
+DECESOS: 80
+TASA DE DEFUNCIÓN: >5%
+- La incubación es asintomática y contagiosa, llegando a durar 14 días.
+
+ACTUALIZACIÓN 27/01/2020: Según [The Guardian](https://www.theguardian.com/science/2020/jan/26/coronavirus-could-infect-100000-globally-experts-warn) los expertos consultados cifran en más de 100.000 las personas contagiadas. El decano de la facultad de medicina de Hong-Kong cifra en 44.000 los contagios en Wuhan.
