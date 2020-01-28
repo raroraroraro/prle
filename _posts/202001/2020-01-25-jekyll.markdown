@@ -5,7 +5,8 @@ date:   2020-01-25 01:30:30 +0100
 categories: jekyll update
 permalink: /pandemia-coronavirus/
 ---
-Síguenos en Twitter para recibir las últimas actualizaciones: @partidoraro **ACTUALIZADO A 28/01/2020.**
+Síguenos en Twitter para recibir las últimas actualizaciones: [@partidoraro](https://twitter.com/partidoraro)
+**ACTUALIZADO A 28/01/2020.**
 
 CASOS REGISTRADOS A 28/01/2020: Recuento oficial mundial: 4.295
 DECESOS: 106
