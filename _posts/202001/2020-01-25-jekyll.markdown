@@ -6,18 +6,17 @@ categories: jekyll update
 permalink: /pandemia-coronavirus/
 ---
 Síguenos en Twitter para recibir las últimas actualizaciones: [@partidoraro](https://twitter.com/partidoraro)
-**ACTUALIZADO A 28/01/2020.**
-
-CASOS REGISTRADOS A 28/01/2020: Recuento oficial mundial: 4.295
-DECESOS: 106
-TASA DE DEFUNCIÓN: >5%
+PETICIÓN CHANGE.ORG: [Cancelar todos los vuelos con Asia durante los próximos meses hasta que tengamos una vacuna para el Corona Virus](https://www.change.org/p/pedro-s%C3%A1nchez-cancelen-los-vuelos-de-asia-excepto-para-repatriaciones?recruiter=1038507117&utm_source=share_petition&utm_medium=copylink&utm_campaign=share_petition)
 
 
-ACTUALIZACIÓN 28/01/2020: Se ha producido 2.714 casos en Hubei (1.291 en una noche) con 100 fallecidos. Corea del Norte ha cerrado su frontera con China. Alemania informa de su primer caso.
+**ACTUALIZADO A 29/01/2020.**
 
-<img src="../assets/images/2020/01/20200128f1.jpg" alt="Gráfica Contagios">
+CASOS REGISTRADOS A 28/01/2020: Recuento oficial mundial: 6.049
+DECESOS: 132
+Japón y Alemania confirman la transmisión de persona a persona
+EE. UU. Y el Reino Unido advierten a los ciudadanos que eviten todos los viajes no esenciales a China
+Maraña Política: China ha rechazado la oferta de asistencia de Estados Unidos. Beijing está reteniendo datos de los CDC.
 
-¿Recordáis las funciones exponenciales que explicaban en clase de matemáticas?
 
 **Algunos datos a tener el cuenta sobre el CoronaVirus?**
 
@@ -105,3 +104,16 @@ TASA DE DEFUNCIÓN: >5%
 - La incubación es asintomática y contagiosa, llegando a durar 14 días.
 
 ACTUALIZACIÓN 27/01/2020: Según [The Guardian](https://www.theguardian.com/science/2020/jan/26/coronavirus-could-infect-100000-globally-experts-warn) los expertos consultados cifran en más de 100.000 las personas contagiadas. El decano de la facultad de medicina de Hong-Kong cifra en 44.000 los contagios en Wuhan.
+
+**ACTUALIZADO A 28/01/2020.**
+
+CASOS REGISTRADOS A 28/01/2020: Recuento oficial mundial: 4.295
+DECESOS: 106
+TASA DE DEFUNCIÓN: >5%
+
+
+ACTUALIZACIÓN 28/01/2020: Se ha producido 2.714 casos en Hubei (1.291 en una noche) con 100 fallecidos. Corea del Norte ha cerrado su frontera con China. Alemania informa de su primer caso.
+
+<img src="../assets/images/2020/01/20200128f1.jpg" alt="Gráfica Contagios">
+
+¿Recordáis las funciones exponenciales que explicaban en clase de matemáticas?
