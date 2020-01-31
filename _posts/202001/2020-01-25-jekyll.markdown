@@ -11,19 +11,21 @@ PETICIÓN CHANGE.ORG: [Cancelar todos los vuelos con Asia durante los próximos 
 
 
 
-**ACTUALIZADO A 30/01/2020.**
+**ACTUALIZADO A 31/01/2020.**
 
-CASOS REGISTRADOS A 29/01/2020: Recuento oficial mundial: 7.814
+CASOS REGISTRADOS A 30/01/2020: Recuento oficial mundial: 9.821
 
-DECESOS: 170
+DECESOS: 213
 
-Periodistas chinos dicen tener evidencias de que Beijing está ocultando la cifra real de fallecidos.
+La OMS/WHO declara la pandemia global
 
-British Airways cancela sus vuelos a China.
+Corea del Sur confirma su primer caso y llega a India y Filipinas.
 
-El CDC envía representantes a China.
+Rusia cierra sus fronteras. Air France y Turkish Airlines cancelan sus vuelos.
 
-<img src="../assets/images/2020/01/20200130f1.jpg" alt="TasaG">
+Alemania confirma el quinto caso.
+
+<img src="../assets/images/2020/01/20200131f1.jpg" alt="CoronaVirus vs SARS">
 
 **Algunos datos a tener el cuenta sobre el CoronaVirus?**
 
@@ -136,3 +138,17 @@ Japón y Alemania confirman la transmisión de persona a persona
 EE. UU. Y el Reino Unido advierten a los ciudadanos que eviten todos los viajes no esenciales a China
 
 Maraña política: China ha rechazado la oferta de asistencia de Estados Unidos. Beijing está reteniendo datos de los CDC.
+
+**ACTUALIZADO A 30/01/2020.**
+
+CASOS REGISTRADOS A 29/01/2020: Recuento oficial mundial: 7.814
+
+DECESOS: 170
+
+Periodistas chinos dicen tener evidencias de que Beijing está ocultando la cifra real de fallecidos.
+
+British Airways cancela sus vuelos a China.
+
+El CDC envía representantes a China.
+
+<img src="../assets/images/2020/01/20200130f1.jpg" alt="TasaG">
