@@ -17,13 +17,13 @@ CASOS REGISTRADOS A 30/01/2020: Recuento oficial mundial: 9.821
 
 DECESOS: 213
 
-La OMS/WHO declara la pandemia global
+- La OMS/WHO declara la alerta mundial sanitaria
 
-Corea del Sur confirma su primer caso y llega a India y Filipinas.
+- Corea del Sur confirma su primer caso y llega a India y Filipinas.
 
-Rusia cierra sus fronteras. Air France y Turkish Airlines cancelan sus vuelos.
+- Rusia cierra sus fronteras. Air France y Turkish Airlines cancelan sus vuelos.
 
-Alemania confirma el quinto caso.
+- Alemania confirma el quinto caso.
 
 <img src="../assets/images/2020/01/20200131f1.jpg" alt="CoronaVirus vs SARS">
 
@@ -79,10 +79,12 @@ Read reconoce que existe la posibilidad de que sus predicciones no sean acertada
 
 Las medidas básicas son las siguientes:
 
-- Evitar el contacto cercano con personas afectadas por infecciones respiratorias.
-- Lavarse las manos de forma frecuente, especialmente antes y después del contacto directo con personas enfermas y sus entornos.
-- Mantener una distancia de un metro entre personas (aproximadamente).
-- Cubrirse la boca y la nariz con el antebrazo o pañuelos desechables al toser o estornudar y lavarse las manos después.
+- Manténganse saludables: Su sistema inmunitario es la mejor defensa.
+- Manténganse positivos: El estrés hace tomar malas decisiones. No se comporte de forma egoista.
+- Evite el contacto cercano con personas afectadas por infecciones respiratorias.
+- Lávase las manos de forma frecuente, especialmente antes y después de entrar contacto directo con personas enfermas y sus entornos.
+- Mantenga una distancia de un metro entre personas (aproximadamente).
+- Cúbrase la boca y la nariz con el antebrazo o pañuelos desechables al toser o estornudar y lavarse las manos después.
 
 
 **¿Llegara a España la gripe de Wuhan?**
