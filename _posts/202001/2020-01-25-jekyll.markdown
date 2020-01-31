@@ -30,7 +30,9 @@ DECESOS: 213
 - Aumentan las sospechas sobre el gobierno chino: [Nikkei Asian Review](https://asia.nikkei.com/Spotlight/Coronavirus-outbreak/Study-suggesting-earlier-human-transmission-fuels-public-anger)
 
 - Las autoridades españolas se empeñan en lanzar un mensaje anti-alarmista que casi provoca el efecto contrario al esperado. Quizá sería mejor ceñirse a los hechos.
+<iframe width="480" height="360" src="//www.youtube.com/watch?v=zHimS96F4QA" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+A mi la gráfica no me deja tan tranquilo:
 <img src="../assets/images/2020/01/20200131f1.jpg" alt="CoronaVirus vs SARS">
 
 **Algunos datos a tener en cuenta sobre el CoronaVirus?**
