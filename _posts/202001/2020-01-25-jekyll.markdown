@@ -7,9 +7,9 @@ permalink: /pandemia-coronavirus/
 ---
 Síguenos en Twitter para recibir las últimas actualizaciones: [@partidoraro](https://twitter.com/partidoraro)
 
-## Artículo de Bill Gates en la [NEJM](https://www.nejm.org/doi/full/10.1056/NEJMp1806283)##
+## Artículo de Bill Gates en la [NEJM](https://www.nejm.org/doi/full/10.1056/NEJMp1806283)
 
-### Innovación para pandemias, por Bill Gates (31 de mayo de 2018)###
+### Innovación para pandemias, por Bill Gates (31 de mayo de 2018)
 
 En las últimas décadas, el mundo ha visto un progreso increíble en la reducción de la mortalidad infantil y la lucha contra las enfermedades infecciosas. Gracias a mejores vacunas y otras intervenciones, la mortalidad infantil ha disminuido en más del 50% desde 1990. Estamos a punto de erradicar la poliomielitis. El VIH ya no es una sentencia de muerte segura. Y la mitad del mundo ahora está libre de malaria.
 
@@ -75,7 +75,7 @@ DECESOS: 213
 
 - Algunos ciudadanos chinos deben de estar preguntándose porque su gobierno se ha gastado [156.000 millones de euros](https://elpais.com/internacional/2019/03/05/actualidad/1551790545_216640.html) en armamento, cuando podían haberlos empleado en sanidad. Puestos a elegir quizá los ciudadanos prefieran morir de un ataque extranjero, antes que hacerlo en los pasillos de un hospital.
 
-**El CoronaVirus toca España**
+### El CoronaVirus toca España
 
 ¿Eramos alarmistas o sencillamente realistas al afirmar que era una cuestión de tiempo que el virus llegara a España?
 
@@ -85,7 +85,7 @@ A fecha de hoy, los contagios solo en China abarcan una horquilla de entre 10.00
 
 ¿Sería muy optimista pensar que dentro de un período similar el número de casos en España fuera inferior al de China? Algún factor hay a nuestro favor: primero, estamos avisados (y se supone que alguien en nuestro gobierno estará más preocupado por este tema que por los problemas que siguen enquistados en nuestros titulares políticos); segundo, la menor densidad de población en España y los mayores controles sanitarios y veterinarios. En nuestra contra, el poco interés que se está demostrando, alegando no querer crear alarma social.
 
-**Algunos datos a tener en cuenta sobre el CoronaVirus?**
+### Algunos datos a tener en cuenta sobre el CoronaVirus?
 
 1.- Las variaciones del virus parece que lo convierten en un tipo especialmente peligroso. La capacidad inmunitaria del cuerpo humano se ve limitada ante variaciones suficientemente grandes de un virus. La gran pandemia de gripe de 1918-19 mató a aproximadamente el 2.5% de sus víctimas, y dado que fue muy contagiosa, se estima que 50 a 60 millones de personas murieron en esa pandemia, a menudo jóvenes sanos.
 
@@ -102,7 +102,7 @@ R. La clave es “por lo que sabemos”. Se puede comportar diferentes maneras, 
 La pregunta del millón es: ¿cuánto tiempo puede tardar una población urbana en verse afectada por el desabastecimiento si está obligada a permanecer en cuarentena?
 
 -------------------------------------------------------------------------------
-**Información general sobre la epidemia de CoronaVirus?**
+### Información general sobre la epidemia de CoronaVirus?
 
 Hasta el momento, las buenas noticias son que con un poco de información su capacidad de reacción y las posibilidades de no contraer la enfermedad aumentan considerablemente. Las malas noticias son que en España no somos japoneses, es decir, no somos organizados, nos cuesta horrores dejar de ser individualistas y no tenemos por costumbre recabar la máxima información de utilidad de antemano. Por si esto no fuera suficiente, nuestras autoridades piensan que es mejor no 'alarmar' a la población. El resultado suele ser que nadie se alarma, hasta que todo el mundo se alarma al mismo tiempo y suele ser demasiado tarde. Por eso, intentemos por una vez, reunir la máxima información sin caer en la histeria. Prepárense con frialdad, sin perder la calma, porque alarmarse y reaccionar no es malo, perder los papeles, sí lo es. Así que hagan un plan mental que les permita tener claro lo que tienen que hacer en caso de llegar la circunstancia, pero sin adelantar acontecimientos. Prepárense, adelantándose con la información y no dejen que los hechos les pillen desprevenido. Recuerden nuestro refranero: Más vale prevenir, que currar.
 
@@ -133,7 +133,7 @@ Read reconoce que existe la posibilidad de que sus predicciones no sean acertada
 
 <img src="../assets/images/2020/01/20200125f1.jpg" alt="Tasa">
 
-**¿Qué medidas se deben tomar para evitar la propagación del CoronaVirus?**
+### ¿Qué medidas se deben tomar para evitar la propagación del CoronaVirus?
 
 Las medidas básicas son las siguientes:
 
@@ -144,7 +144,7 @@ Las medidas básicas son las siguientes:
 - Mantenga una distancia de un metro entre personas (aproximadamente).
 - Cúbrase la boca y la nariz con el antebrazo o pañuelos desechables al toser o estornudar y lavarse las manos después.
 
-***EN ANTERIORES ACTUALIZACIONES DE LA NOTA***
+## EN ANTERIORES ACTUALIZACIONES DE LA NOTA
 
 PETICIÓN CHANGE.ORG: [Cancelar todos los vuelos con Asia durante los próximos meses hasta que tengamos una vacuna para el Corona Virus](https://www.change.org/p/pedro-s%C3%A1nchez-cancelen-los-vuelos-de-asia-excepto-para-repatriaciones?recruiter=1038507117&utm_source=share_petition&utm_medium=copylink&utm_campaign=share_petition)
 
