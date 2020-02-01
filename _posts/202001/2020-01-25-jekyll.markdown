@@ -7,13 +7,9 @@ permalink: /pandemia-coronavirus/
 ---
 Síguenos en Twitter para recibir las últimas actualizaciones: [@partidoraro](https://twitter.com/partidoraro)
 
-PETICIÓN CHANGE.ORG: [Cancelar todos los vuelos con Asia durante los próximos meses hasta que tengamos una vacuna para el Corona Virus](https://www.change.org/p/pedro-s%C3%A1nchez-cancelen-los-vuelos-de-asia-excepto-para-repatriaciones?recruiter=1038507117&utm_source=share_petition&utm_medium=copylink&utm_campaign=share_petition)
+**ACTUALIZADO A 1/02/2020.**
 
-
-
-**ACTUALIZADO A 31/01/2020.**
-
-CASOS REGISTRADOS A 30/01/2020: Recuento oficial mundial: 9.821
+CASOS REGISTRADOS A 31/01/2020: Recuento oficial mundial: 9.911
 
 DECESOS: 213
 
@@ -21,21 +17,12 @@ DECESOS: 213
 
 - La OMS/WHO declara la alerta mundial sanitaria. 25 paises afectados
 
-- Corea del Sur confirma su primer caso, mientras llega a India y Filipinas.
-
-- Rusia cierra sus fronteras. Air France y Turkish Airlines cancelan sus vuelos.
-
-- Alemania confirma el quinto caso.
-
 - Durante el día de hoy superaremos la barrera de los 10.000 casos. Parece que todo el mundos se está fijando en el número de casos, cuando lo realmente importante es la tasa de propagación. No importa si estamos un poco más cerca o más lejos en la esa línea de crecimiento, lo importante es la pendiente de esa línea de crecimiento que marcará el grado de expansión.
-
-- Aumentan las sospechas sobre el gobierno chino: [Nikkei Asian Review](https://asia.nikkei.com/Spotlight/Coronavirus-outbreak/Study-suggesting-earlier-human-transmission-fuels-public-anger)
 
 - Las autoridades españolas se empeñan en lanzar un mensaje anti-alarmista que casi provoca el efecto contrario al esperado. Quizá sería mejor ceñirse a los hechos.
 <iframe width="480" height="360" src="//www.youtube.com/embed/zHimS96F4QA" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-A mi la gráfica no me deja tan tranquilo:
-<img src="../assets/images/2020/01/20200131f1.jpg" alt="CoronaVirus vs SARS">
+- Algunos ciudadanos chinos deben de estar preguntándose porque su gobierno se ha gastado [156.000 millones de euros](https://elpais.com/internacional/2019/03/05/actualidad/1551790545_216640.html) en armamento, cuando podían haberlos empleado en sanidad. Puestos a elegir quizá los ciudadanos prefieran morir de un ataque extranjero, antes que hacerlo en los pasillos de un hospital.
 
 **El CoronaVirus toca España**
 
@@ -107,6 +94,8 @@ Las medidas básicas son las siguientes:
 - Cúbrase la boca y la nariz con el antebrazo o pañuelos desechables al toser o estornudar y lavarse las manos después.
 
 ***EN ANTERIORES ACTUALIZACIONES DE LA NOTA***
+
+PETICIÓN CHANGE.ORG: [Cancelar todos los vuelos con Asia durante los próximos meses hasta que tengamos una vacuna para el Corona Virus](https://www.change.org/p/pedro-s%C3%A1nchez-cancelen-los-vuelos-de-asia-excepto-para-repatriaciones?recruiter=1038507117&utm_source=share_petition&utm_medium=copylink&utm_campaign=share_petition)
 
 **¿Llegara a España la gripe de Wuhan?**
 
@@ -181,3 +170,30 @@ British Airways cancela sus vuelos a China.
 El CDC envía representantes a China.
 
 <img src="../assets/images/2020/01/20200130f1.jpg" alt="TasaG">
+
+
+**ACTUALIZADO A 31/01/2020.**
+
+CASOS REGISTRADOS A 30/01/2020: Recuento oficial mundial: 9.821
+
+DECESOS: 213
+
+- Primer caso confirmado en España
+
+- La OMS/WHO declara la alerta mundial sanitaria. 25 paises afectados
+
+- Corea del Sur confirma su primer caso, mientras llega a India y Filipinas.
+
+- Rusia cierra sus fronteras. Air France y Turkish Airlines cancelan sus vuelos.
+
+- Alemania confirma el quinto caso.
+
+- Durante el día de hoy superaremos la barrera de los 10.000 casos. Parece que todo el mundos se está fijando en el número de casos, cuando lo realmente importante es la tasa de propagación. No importa si estamos un poco más cerca o más lejos en la esa línea de crecimiento, lo importante es la pendiente de esa línea de crecimiento que marcará el grado de expansión.
+
+- Aumentan las sospechas sobre el gobierno chino: [Nikkei Asian Review](https://asia.nikkei.com/Spotlight/Coronavirus-outbreak/Study-suggesting-earlier-human-transmission-fuels-public-anger)
+
+- Las autoridades españolas se empeñan en lanzar un mensaje anti-alarmista que casi provoca el efecto contrario al esperado. Quizá sería mejor ceñirse a los hechos.
+<iframe width="480" height="360" src="//www.youtube.com/embed/zHimS96F4QA" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+A mi la gráfica no me deja tan tranquilo:
+<img src="../assets/images/2020/01/20200131f1.jpg" alt="CoronaVirus vs SARS">
