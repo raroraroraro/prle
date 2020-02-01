@@ -251,4 +251,4 @@ A mi la gráfica no me deja tan tranquilo:
 <img src="../assets/images/2020/01/20200131f1.jpg" alt="CoronaVirus vs SARS">
 
 
-# Informe diario de la [OMS/WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) sobre la situación: [Nikkei Asian Review]
+# Informe diario de la [OMS/WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) sobre la situación.
