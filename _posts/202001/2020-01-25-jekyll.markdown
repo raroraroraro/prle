@@ -7,9 +7,9 @@ permalink: /pandemia-coronavirus/
 ---
 Síguenos en Twitter para recibir las últimas actualizaciones: [@partidoraro](https://twitter.com/partidoraro)
 
-#Artículo de Bill Gates en la [NEJM](https://www.nejm.org/doi/full/10.1056/NEJMp1806283)#
+## Artículo de Bill Gates en la [NEJM](https://www.nejm.org/doi/full/10.1056/NEJMp1806283)##
 
-##Innovación para pandemias, por Bill Gates (31 de mayo de 2018)##
+### Innovación para pandemias, por Bill Gates (31 de mayo de 2018)###
 
 En las últimas décadas, el mundo ha visto un progreso increíble en la reducción de la mortalidad infantil y la lucha contra las enfermedades infecciosas. Gracias a mejores vacunas y otras intervenciones, la mortalidad infantil ha disminuido en más del 50% desde 1990. Estamos a punto de erradicar la poliomielitis. El VIH ya no es una sentencia de muerte segura. Y la mitad del mundo ahora está libre de malaria.
 
