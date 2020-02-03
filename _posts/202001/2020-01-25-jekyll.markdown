@@ -7,6 +7,20 @@ permalink: /pandemia-coronavirus/
 ---
 Síguenos en Twitter para recibir las últimas actualizaciones: [@partidoraro](https://twitter.com/partidoraro)
 
+
+**ACTUALIZADO A 3/02/2020.**
+
+CASOS REGISTRADOS A 02/02/2020: Recuento oficial mundial: 17.388
+
+DECESOS: 362
+
+- Fallece un paciente en Filipinas: Primera muerte fuera de China
+
+- 24 paises informan sobre sus CASOS
+
+- 36 franceses evacuados de Wuhan muestran síntomas.
+
+
 ## Artículo de Bill Gates en la [NEJM](https://www.nejm.org/doi/full/10.1056/NEJMp1806283)
 
 ### Innovación para pandemias, por Bill Gates (31 de mayo de 2018)
@@ -59,22 +73,6 @@ Los formularios de divulgación proporcionados por el autor están disponibles e
 
 Publicamos este artículo como muestra de cómo deberían de ser las cosas desde el punto de vista de nuestro partido. Creemos que nuestra sociedad no necesita políticos que nos digan que todo va a ir bien. Nuestra sociedad necesita información para que cuando las cosas vayan mal, no podamos decir que nadie nos advirtió. Una sociedad adormecida por la información políticamente correcta es una sociedad incapaz de reaccionar ante los retos. Retos que nos esperan y que no van a desaparecer por no mirarlos de frente. Estas son nuestras razones.
 
-**ACTUALIZADO A 1/02/2020.**
-
-CASOS REGISTRADOS A 31/01/2020: Recuento oficial mundial: 9.911
-
-DECESOS: 213
-
-- Primer caso confirmado en España
-
-- La OMS/WHO declara la alerta mundial sanitaria. 25 paises afectados
-
-- Durante el día de hoy superaremos la barrera de los 10.000 casos. Parece que todo el mundos se está fijando en el número de casos, cuando lo realmente importante es la tasa de propagación. No importa si estamos un poco más cerca o más lejos en la esa línea de crecimiento, lo importante es la pendiente de esa línea de crecimiento que marcará el grado de expansión.
-
-- Las autoridades españolas se empeñan en lanzar un mensaje anti-alarmista que casi provoca el efecto contrario al esperado. Quizá sería mejor ceñirse a los hechos.
-<iframe width="480" height="360" src="//www.youtube.com/embed/zHimS96F4QA" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-- Algunos ciudadanos chinos deben de estar preguntándose porque su gobierno se ha gastado [156.000 millones de euros](https://elpais.com/internacional/2019/03/05/actualidad/1551790545_216640.html) en armamento, cuando podían haberlos empleado en sanidad. Puestos a elegir quizá los ciudadanos prefieran morir de un ataque extranjero, antes que hacerlo en los pasillos de un hospital.
 
 ### El CoronaVirus toca España
 
@@ -249,6 +247,25 @@ DECESOS: 213
 
 A mi la gráfica no me deja tan tranquilo:
 <img src="../assets/images/2020/01/20200131f1.jpg" alt="CoronaVirus vs SARS">
+
+
+**ACTUALIZADO A 1/02/2020.**
+
+CASOS REGISTRADOS A 31/01/2020: Recuento oficial mundial: 9.911
+
+DECESOS: 213
+
+- Primer caso confirmado en España
+
+- La OMS/WHO declara la alerta mundial sanitaria. 25 paises afectados
+
+- Durante el día de hoy superaremos la barrera de los 10.000 casos. Parece que todo el mundos se está fijando en el número de casos, cuando lo realmente importante es la tasa de propagación. No importa si estamos un poco más cerca o más lejos en la esa línea de crecimiento, lo importante es la pendiente de esa línea de crecimiento que marcará el grado de expansión.
+
+- Las autoridades españolas se empeñan en lanzar un mensaje anti-alarmista que casi provoca el efecto contrario al esperado. Quizá sería mejor ceñirse a los hechos.
+<iframe width="480" height="360" src="//www.youtube.com/embed/zHimS96F4QA" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+- Algunos ciudadanos chinos deben de estar preguntándose porque su gobierno se ha gastado [156.000 millones de euros](https://elpais.com/internacional/2019/03/05/actualidad/1551790545_216640.html) en armamento, cuando podían haberlos empleado en sanidad. Puestos a elegir quizá los ciudadanos prefieran morir de un ataque extranjero, antes que hacerlo en los pasillos de un hospital.
+
 
 
 # Informe diario de la [OMS/WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) sobre la situación.
