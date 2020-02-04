@@ -8,17 +8,23 @@ permalink: /pandemia-coronavirus/
 Síguenos en Twitter para recibir las últimas actualizaciones: [@partidoraro](https://twitter.com/partidoraro)
 
 
-**ACTUALIZADO A 3/02/2020.**
 
-CASOS REGISTRADOS A 02/02/2020: Recuento oficial mundial: 17.388
+**ACTUALIZADO A 4/02/2020.**
 
-DECESOS: 362
+CASOS REGISTRADOS A 03/02/2020: Recuento oficial mundial: 20.500
 
-- Fallece un paciente en Filipinas: Primera muerte fuera de China
+DECESOS: 425
 
-- 24 paises informan sobre sus CASOS
+- 171.329 casos bajo observación
 
-- 36 franceses evacuados de Wuhan muestran síntomas.
+- Hong-Kong cierra su frontera
+
+
+
+### CoronaVirus vs. Gripe estacional
+
+No soy virologo, pero algunos periodistas me hacen pensar cuando comparan la Pandemia de CoronaVirus con la gripe estacional. Con los datos que he recabado, es cierto, que ambas pueden causar la muerte y en eso se parecen, aunque parece que la tasa de defunción para la gripe es de un 0.1%, mientras que la del CoronaVirus es más de un 3%. La tasa de propagación para la gripe es de un 1.28, mientras que para el CoronaVirus parece que es muy superior al 2.5% (pudiendo llegar al 4%). La tasa de ingreso en UCI de la gripe es menor al 1% mientras que para el CoronaVirus rondaría un 20%. Todos los años hay gripe en China y sin embargo, ningún año ponen a millones de personas en cuarentena cerrando ciudades enteras. Si fueran lo mismo, creo que las medidas que han tomado serían parecidas todos los años. Sin embargo, es irresponsable lanzar un mensaje tranquilizador y actuar como si la cosa fuera muy en serio. La población se fija en la coherencia de la situación para sacar sus propias consecuencias.
+
 
 
 ## Artículo de Bill Gates en la [NEJM](https://www.nejm.org/doi/full/10.1056/NEJMp1806283)
@@ -151,12 +157,6 @@ PETICIÓN CHANGE.ORG: [Cancelar todos los vuelos con Asia durante los próximos 
 
 Es cuestión de tiempo, sobre todo si tenemos en cuenta que el transporte mundial no se va a paralizar por el contagio.
 
-Como explica en este vídeo, el Doctor Marteson (Doctor en Patología), **tomar una muestra de temperatura a un pasajero de un avión en un aeropuerto es una forma poco efectiva de frenar la expansión del virus, sobre todo teniendo en cuenta que  puedan pasar 5 días de incubación del virus.**
-
-[Vídeo del Doctor Marteson:](https://youtu.be/Nk5P_iRYwTY)
-
-<iframe width="480" height="360" src="//www.youtube.com/embed/Nk5P_iRYwTY" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
 Los países con mayor riesgo de importar infecciones a través del transporte aéreo son Tailandia, Japón, Taiwán, Hong Kong, Corea del Sur, Estados Unidos, Malasia, Singapur, Australia y Vietnam. Desde Asia se infectará el resto del mundo, así que mejor nos vamos preparando para cuando llegue ¿no?
 
 <img src="../assets/images/2020/01/20200125f4.jpg" alt="Mapa Contagios">
@@ -262,9 +262,21 @@ DECESOS: 213
 - Durante el día de hoy superaremos la barrera de los 10.000 casos. Parece que todo el mundos se está fijando en el número de casos, cuando lo realmente importante es la tasa de propagación. No importa si estamos un poco más cerca o más lejos en la esa línea de crecimiento, lo importante es la pendiente de esa línea de crecimiento que marcará el grado de expansión.
 
 - Las autoridades españolas se empeñan en lanzar un mensaje anti-alarmista que casi provoca el efecto contrario al esperado. Quizá sería mejor ceñirse a los hechos.
-<iframe width="480" height="360" src="//www.youtube.com/embed/zHimS96F4QA" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 - Algunos ciudadanos chinos deben de estar preguntándose porque su gobierno se ha gastado [156.000 millones de euros](https://elpais.com/internacional/2019/03/05/actualidad/1551790545_216640.html) en armamento, cuando podían haberlos empleado en sanidad. Puestos a elegir quizá los ciudadanos prefieran morir de un ataque extranjero, antes que hacerlo en los pasillos de un hospital.
+
+
+**ACTUALIZADO A 3/02/2020.**
+
+CASOS REGISTRADOS A 02/02/2020: Recuento oficial mundial: 17.388
+
+DECESOS: 362
+
+- Fallece un paciente en Filipinas: Primera muerte fuera de China
+
+- 24 paises informan sobre sus CASOS
+
+- 36 franceses evacuados de Wuhan muestran síntomas.
 
 
 
