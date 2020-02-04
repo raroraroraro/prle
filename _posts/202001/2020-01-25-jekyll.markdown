@@ -19,6 +19,8 @@ DECESOS: 425
 
 - Hong-Kong cierra su frontera
 
+- [Informe oficial de OMS del 3/2/2020:](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200203-sitrep-14-ncov.pdf?sfvrsn=f7347413_2)
+
 
 
 ### CoronaVirus vs. Gripe estacional
