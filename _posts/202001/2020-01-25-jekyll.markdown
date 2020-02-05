@@ -9,23 +9,25 @@ Síguenos en Twitter para recibir las últimas actualizaciones: [@partidoraro](h
 
 
 
-**ACTUALIZADO A 4/02/2020.**
+**ACTUALIZADO A 5/02/2020.**
 
-CASOS REGISTRADOS A 03/02/2020: Recuento oficial mundial: 20.500
+CASOS REGISTRADOS A 04/02/2020: Recuento oficial mundial: 24.628
 
-DECESOS: 425
+DECESOS: 492
 
-- 171.329 casos bajo observación
+- 171.329 casos bajo observación.
 
-- Hong-Kong cierra su frontera
+- Aumentan las dudas sobre la transparencia y el recuento de víctimas por parte de las autoridades chinas mientras el presidente Xi afirma que se siente capaz de hacer remitir el brote y la OMS pide más fondos ($675 millones).
 
-- [Informe oficial de OMS del 3/2/2020:](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200203-sitrep-14-ncov.pdf?sfvrsn=f7347413_2)
+- Las bolsas suben con fuerza ante el rumor de una posible cura al CoronaVirus desarrollada en la Universidad de Zhejiang.
+
+- [Informe oficial de OMS del 5/2/2020:](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200205-sitrep-16-ncov.pdf?sfvrsn=23af287f_2)
 
 
 
 ### CoronaVirus vs. Gripe estacional
 
-No soy virologo, pero algunos periodistas me hacen pensar cuando comparan la Pandemia de CoronaVirus con la gripe estacional. Con los datos que he recabado, es cierto, que ambas pueden causar la muerte y en eso se parecen, aunque parece que la tasa de defunción para la gripe es de un 0.1%, mientras que la del CoronaVirus es más de un 3%. La tasa de propagación para la gripe es de un 1.28, mientras que para el CoronaVirus parece que es muy superior al 2.5% (pudiendo llegar al 4%). La tasa de ingreso en UCI de la gripe es menor al 1% mientras que para el CoronaVirus rondaría un 20%. Todos los años hay gripe en China y sin embargo, ningún año ponen a millones de personas en cuarentena cerrando ciudades enteras. Si fueran lo mismo, creo que las medidas que han tomado serían parecidas todos los años. Sin embargo, es irresponsable lanzar un mensaje tranquilizador y actuar como si la cosa fuera muy en serio. La población se fija en la coherencia de la situación para sacar sus propias consecuencias.
+No soy virologo, pero algunos periodistas me hacen pensar cuando comparan la Pandemia de CoronaVirus con la gripe estacional. Con los datos que se pueden recabar, es cierto, que ambas pueden causar la muerte y en eso se parecen, aunque parece que la tasa de defunción para la gripe es de un 0.1%, mientras que la del CoronaVirus es más de un 3%. La tasa de propagación para la gripe es de un 1.28, mientras que para el CoronaVirus parece que es muy superior al 2.5% (pudiendo llegar al 4%). La tasa de ingreso en UCI de la gripe es menor al 1% mientras que para el CoronaVirus rondaría un 20%. Todos los años hay gripe en China y sin embargo, ningún año ponen a millones de personas en cuarentena cerrando ciudades enteras. Si fueran lo mismo, creo que las medidas que han tomado serían parecidas todos los años. Sin embargo, es irresponsable lanzar un mensaje tranquilizador y actuar como si la cosa fuera muy en serio. La población se fija en la coherencia de la situación para sacar sus propias conclusiones.
 
 
 
@@ -280,6 +282,17 @@ DECESOS: 362
 
 - 36 franceses evacuados de Wuhan muestran síntomas.
 
+**ACTUALIZADO A 4/02/2020.**
+
+CASOS REGISTRADOS A 03/02/2020: Recuento oficial mundial: 20.500
+
+DECESOS: 425
+
+- 171.329 casos bajo observación
+
+- Hong-Kong cierra su frontera
+
+- [Informe oficial de OMS del 3/2/2020:](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200203-sitrep-14-ncov.pdf?sfvrsn=f7347413_2)
 
 
 # Informe diario de la [OMS/WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) sobre la situación.
