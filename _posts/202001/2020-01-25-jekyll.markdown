@@ -7,6 +7,8 @@ permalink: /pandemia-coronavirus/
 ---
 Síguenos en Twitter para recibir las últimas actualizaciones: [@partidoraro](https://twitter.com/partidoraro)
 
+Dado que las cifras de contagios no son en absoluto fiables, dejaremos de actualizarlas. Quizá haya que centrarse exclusivamente en las cifras de fuera de China para observar la evolución de la pandemia.
+
 **ACTUALIZADO A 11/02/2020.**
 
 - Según lo informado por los medios locales esta mañana, la Comisión Nacional de Salud de China cambió en silencio su definición de "caso confirmado" de Coronavirus en la última directriz con fecha 7/2. Como resultado, los pacientes que dieran positivo para el virus pero no presenten síntomas ya no se considerarán confirmados. Como observa Alex Lam, "esto inevitablemente reducirá los números".
