@@ -7,22 +7,16 @@ permalink: /pandemia-coronavirus/
 ---
 Síguenos en Twitter para recibir las últimas actualizaciones: [@partidoraro](https://twitter.com/partidoraro)
 
+**ACTUALIZADO A 11/02/2020.**
 
+- Según lo informado por los medios locales esta mañana, la Comisión Nacional de Salud de China cambió en silencio su definición de "caso confirmado" de Coronavirus en la última directriz con fecha 7/2. Como resultado, los pacientes que dieran positivo para el virus pero no presenten síntomas ya no se considerarán confirmados. Como observa Alex Lam, "esto inevitablemente reducirá los números".
 
-**ACTUALIZADO A 7/02/2020.**
-
-CASOS REGISTRADOS A 07/02/2020: Recuento oficial mundial: 31.529 (4.825) en situación crítica)
-
-DECESOS: 638
-
-- Empiezan a llegar buenas noticias por dos frentes: el primero, la combinación de retrovirales para el tratamiento del VIH parece que tienen efecto en combinación con otros fármacos; y sengundo, la cifras de contagios están mostrando una clara desaceleración. Aunque dichas cifras dependen de un gobierno chino que ha demostrado su total falta de transparencia, lo que nos parece más tranquilizador es que la cifras de contagio y fallecimientos en Europa y EE.UU son muy inferiores a las cifras de China. Desgraciadamente, el CoronaVirus puede convertirse en otro castigo para países sanitariamente poco desarrollados.
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Chinese National Health Commission has changed their definition of <a href="https://twitter.com/hashtag/WuhanCoronavirus?src=hash&amp;ref_src=twsrc%5Etfw">#WuhanCoronavirus</a> &quot;confirmed case&quot; in their latest guidelines dated 7/2. Patients tested positive for the virus but have no symptoms will no longer be regarded as confirmed. This inevitably will lower the numbers. <a href="https://t.co/q4eWKGfWev">pic.twitter.com/q4eWKGfWev</a></p>&mdash; Alex Lam 林偉聰 (@lwcalex) <a href="https://twitter.com/lwcalex/status/1226840055869632512?ref_src=twsrc%5Etfw">February 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ### CoronaVirus vs. Gripe estacional
 
 No soy virologo, pero algunos periodistas me hacen pensar cuando comparan la Pandemia de CoronaVirus con la gripe estacional. Con los datos que se pueden recabar, es cierto, que ambas pueden causar la muerte y en eso se parecen, aunque parece que la tasa de defunción para la gripe es de un 0.1%, mientras que la del CoronaVirus es más de un 3%. La tasa de propagación para la gripe es de un 1,28, mientras que para el CoronaVirus parece que es muy superior al 2,5 (pudiendo llegar al 4,0). La tasa de ingreso en UCI de la gripe es menor al 1% mientras que para el CoronaVirus rondaría un 20%. Todos los años hay gripe en China y sin embargo, ningún año ponen a millones de personas en cuarentena cerrando ciudades enteras. Si fueran lo mismo, creo que las medidas que han tomado serían parecidas todos los años. Sin embargo, es irresponsable lanzar un mensaje tranquilizador y actuar como si la cosa fuera muy en serio. La población se fija en la coherencia de la situación para sacar sus propias conclusiones.
-
 
 
 ## Artículo de Bill Gates en la [NEJM](https://www.nejm.org/doi/full/10.1056/NEJMp1806283)
@@ -302,5 +296,16 @@ DECESOS: 492
 
 - [Informe oficial de OMS del 5/2/2020:](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200205-sitrep-16-ncov.pdf?sfvrsn=23af287f_2)
 
+**ACTUALIZADO A 7/02/2020.**
+
+CASOS REGISTRADOS A 07/02/2020: Recuento oficial mundial: 31.529 (4.825) en situación crítica)
+
+DECESOS: 638
+
+- Empiezan a llegar buenas noticias por dos frentes: el primero, la combinación de retrovirales para el tratamiento del VIH parece que tienen efecto en combinación con otros fármacos; y sengundo, la cifras de contagios están mostrando una clara desaceleración. Aunque dichas cifras dependen de un gobierno chino que ha demostrado su total falta de transparencia, lo que nos parece más tranquilizador es que la cifras de contagio y fallecimientos en Europa y EE.UU son muy inferiores a las cifras de China. Desgraciadamente, el CoronaVirus puede convertirse en otro castigo para países sanitariamente poco desarrollados.
+
+--------------------------------------------------------------------------------
+
+- Si usted está leyendo esta información sea por que tiene a practicar el razonamiento crítico y a confiar en su propio juicio. Esto le convierte en rara avis, cuando hoy en dia, el sentido común y la prudencia son tan poco frecuentes.
 
 # Informe diario de la [OMS/WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) sobre la situación.
