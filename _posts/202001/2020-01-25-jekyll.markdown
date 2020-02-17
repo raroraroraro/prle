@@ -7,17 +7,13 @@ permalink: /pandemia-coronavirus/
 ---
 Síguenos en Twitter para recibir las últimas actualizaciones: [@partidoraro](https://twitter.com/partidoraro)
 
-**ACTUALIZADO A 13/02/2020.**
+**ACTUALIZADO A 17/02/2020.**
 
 Dado que las cifras de contagios facilitadas por las autoridades chinas no son en absoluto fiables, dejaremos de actualizarlas. Quizá haya que centrarse exclusivamente en las cifras de fuera de China para observar la evolución de la pandemia. Hoy se ha reconocido el error al cambiar de criterio y se ha vuelto al criterio anterior, aprovechando para actualizar las cifras:
 
-<img src="../assets/images/2020/02/20200213f1.jpg" alt="Deaths">
+- El projecto 1000 Genomes ha publicado la lista del riesgo de contraer el CoronaVirus para distintos genomas:
 
-<img src="../assets/images/2020/02/20200213f2.jpg" alt="Spread">
-
-- Según lo informado por los medios locales... (ayer), la Comisión Nacional de Salud de China cambió en silencio su definición de "caso confirmado" de Coronavirus en la última directriz con fecha 7/2. Como resultado, los pacientes que dieran positivo para el virus pero no presenten síntomas ya no se considerarán confirmados. Como observa Alex Lam, "esto inevitablemente reducirá los números".
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Chinese National Health Commission has changed their definition of <a href="https://twitter.com/hashtag/WuhanCoronavirus?src=hash&amp;ref_src=twsrc%5Etfw">#WuhanCoronavirus</a> &quot;confirmed case&quot; in their latest guidelines dated 7/2. Patients tested positive for the virus but have no symptoms will no longer be regarded as confirmed. This inevitably will lower the numbers. <a href="https://t.co/q4eWKGfWev">pic.twitter.com/q4eWKGfWev</a></p>&mdash; Alex Lam 林偉聰 (@lwcalex) <a href="https://twitter.com/lwcalex/status/1226840055869632512?ref_src=twsrc%5Etfw">February 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img src="../assets/images/2020/02/20200217f1.jpg" alt="Genomics">
 
 
 ### CoronaVirus vs. Gripe estacional
@@ -316,6 +312,18 @@ DECESOS: 638
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Chinese National Health Commission has changed their definition of <a href="https://twitter.com/hashtag/WuhanCoronavirus?src=hash&amp;ref_src=twsrc%5Etfw">#WuhanCoronavirus</a> &quot;confirmed case&quot; in their latest guidelines dated 7/2. Patients tested positive for the virus but have no symptoms will no longer be regarded as confirmed. This inevitably will lower the numbers. <a href="https://t.co/q4eWKGfWev">pic.twitter.com/q4eWKGfWev</a></p>&mdash; Alex Lam 林偉聰 (@lwcalex) <a href="https://twitter.com/lwcalex/status/1226840055869632512?ref_src=twsrc%5Etfw">February 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+**ACTUALIZADO A 13/02/2020.**
+
+Dado que las cifras de contagios facilitadas por las autoridades chinas no son en absoluto fiables, dejaremos de actualizarlas. Quizá haya que centrarse exclusivamente en las cifras de fuera de China para observar la evolución de la pandemia. Hoy se ha reconocido el error al cambiar de criterio y se ha vuelto al criterio anterior, aprovechando para actualizar las cifras:
+
+<img src="../assets/images/2020/02/20200213f1.jpg" alt="Deaths">
+
+<img src="../assets/images/2020/02/20200213f2.jpg" alt="Spread">
+
+- Según lo informado por los medios locales... (ayer), la Comisión Nacional de Salud de China cambió en silencio su definición de "caso confirmado" de Coronavirus en la última directriz con fecha 7/2. Como resultado, los pacientes que dieran positivo para el virus pero no presenten síntomas ya no se considerarán confirmados. Como observa Alex Lam, "esto inevitablemente reducirá los números".
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Chinese National Health Commission has changed their definition of <a href="https://twitter.com/hashtag/WuhanCoronavirus?src=hash&amp;ref_src=twsrc%5Etfw">#WuhanCoronavirus</a> &quot;confirmed case&quot; in their latest guidelines dated 7/2. Patients tested positive for the virus but have no symptoms will no longer be regarded as confirmed. This inevitably will lower the numbers. <a href="https://t.co/q4eWKGfWev">pic.twitter.com/q4eWKGfWev</a></p>&mdash; Alex Lam 林偉聰 (@lwcalex) <a href="https://twitter.com/lwcalex/status/1226840055869632512?ref_src=twsrc%5Etfw">February 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --------------------------------------------------------------------------------
 
 - Si usted está leyendo esta información sea por que tiene a practicar el razonamiento crítico y a confiar en su propio juicio. Esto le convierte en rara avis, cuando hoy en dia, el sentido común y la prudencia son tan poco frecuentes.
