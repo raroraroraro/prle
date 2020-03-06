@@ -29,7 +29,7 @@ Hay 4 posturas muy claras:
 [Tasa de mortalidad del CoVid-19 por edades:](http://weekly.chinacdc.cn/en/article/id/e53946e2-c6c4-41e9-9a9b-fea8db1a8f51)
 
 
-Edad | Tasa mortalidad |
+| Edad | Tasa mortalidad |
 |-------|--------|
 | 10–39 | 0.2% |
 | 40–49 | 0.4% |
