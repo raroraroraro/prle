@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Feijóo y el narcotraficante gallego Marcial Dorado"
-date:   2020-01-10 01:30:30 +0100
+date:   2020-03-10 01:30:30 +0100
 categories: jekyll update
 permalink: /feijoo-marcial-dorado/
 ---
 
-<img src="../assets/images/2020/02/20200210a1.jpg" alt="FeijooMarcial">
+<img src="../assets/images/2020/03/20200210a1.jpg" alt="FeijooMarcial">
 
 La Sexta emitirá una entrevista con el narcotraficante Marcial Dorado en la que expondrá su relación con el actual Presidente de Xunta, Nuñez Feijóo en una entrevista el próximo domingo 15 de marzo.
 
