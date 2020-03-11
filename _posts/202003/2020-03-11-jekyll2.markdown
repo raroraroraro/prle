@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "¿Le cubre su seguro de médico privado?"
+date:   2020-03-11 01:30:30 +0100
+categories: jekyll update
+permalink: /seguro-medico-privado/
+---
+
+<img src="../assets/images/2020/03/20200311f1.jpg" alt="Saturación">
+
+Es un tema legal y las aseguradoras se han apresurado a decir que ellas no cubren los contagios por Corona Virus, pero vayamos a ver lo que las propias aseguradoras siempre miran: las condiciones legales de su póliza.
+
+Si de los bancos se dice que te prestan un paraguas en un día soleado y te lo quitan en uno lluvioso, de las aseguradoras y sus contratos mejor no hablar, así que vamos al grano.
+
+En estos momentos de estrés para las sociedad española en su conjunto, las aseguradoras miran por su negocio. Si usted ha estado pagando religiosamente su póliza durante los últimos años y espera que si usted o su familia se ponen enfermos, puedan aliviar al sistema público de salud de su atención para que pueda centrarse en aquellos menos favorecidos, pues sentimos decirle que se va a tener que sentir seguro en otro lado, el articulado de nuestra póliza es muy claro al respecto:
+
+> Quedan excluidos de la cobertura de este Seguro:
+
+> Los hechos de guerra, terrorismo, terremotos o cualquier
+> otro fenómeno meteorológico similar de carácter catastrófico
+> o extraordinario, así como las epidemias declaradas oficialmente.
+
+Y como siempre el diablo se esconde en los detalles (...así como las epidemias declaradas oficialmente). ¿Quién debe declarar oficialmente la epidemia? Las autoridades, ¿verdad? Pues eso, vamos a pedir a las autoridades que no hagan recaer todo el peso de esta epidemia sobre el sistema público de salud, [sencillamente porque no lo va a poder soportar](http://www.partidoraro.es/covid-satura-hospitales/) y de esta situación vamos a salir todos juntos, como afirmaba ayer Pedro Sánchez.
+
+[Firma y compártelo:](http://chng.it/zhtVCjByWn)
