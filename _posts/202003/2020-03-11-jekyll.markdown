@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "¿A cuántos contagios estamos de saturar nuestros hospitales?"
+date:   2020-03-11 01:30:30 +0100
+categories: jekyll update
+permalink: /covid-satura-hospitales/
+---
+
+<img src="../assets/images/2020/03/20200311f1.jpg" alt="Saturación">
+
+La cifra es difícil de calcular dado que no tenemos la información actual del número de camas disponibles y el gobierno se cuidará muy mucho de publicar dicha información porque dejará patente la falta de inversión que padece nuestro sistema y el pésimo reparto de dicha inversión cuando se ha destinado una parte demasiado grande a cuestiones que la ciudadanía pronto considerará irrelevantes.
+
+Desgraciadamente, no somos capaces de construir un hospital en 10 días como en China, pero habríamos sido capaces de poner en vigor las medidas necesarias para retrasar los contagios lo máximo posible y evitar la saturación del sistema.
+
+Pongamos algunos números a la información que aparece arriba:
+
+Por cada 100 nuevos contagiados: 5 tendrán que ser hospitalizados, 2 precisarán ser internados en la UCI y será necesario contar con un ventilador. En la Comunidad de Madrid hay: [20.463 camas](https://www.mscbs.gob.es/ciudadanos/prestaciones/centrosServiciosSNS/hospitales/docs/2018_CNH.pdf) pero desconocemos cuántas están ocupadas. Sin embargo, si los contagios crecieran a una cifra del 15% (inferior al crecimiento actual) podrían llegar a producirse más de 10.000 a final del mes de marzo, ocupando 556 camas, 167 plazas de UCI y 111 respiradores (en Madrid). Las matemáticas son sencillas y no queremos ser alarmistas. Hagan sus cálculos y fijense en las cifras de Italia hace algo más de 10 días para ver una foto de España hoy.
+
+Italia ya ha alcanzado los 10.000 contagiados y su sistema todavía no ha colapsado.
+
+Todos tenemos la culpa de que las prioridades produzcan estos esperpentos. Todos queremos todo, pero nada es infinito y toca elegir: ¿Sanidad o defensa? ¿Sanidad o cultura? ¿Sanidad o infraestructuras? ¿Sanidad u organismos públicos? ¿Sanidad o financiación territorial? [¿Qué eliges?](https://www.libremercado.com/2019-01-20/los-presupuestos-de-2019-paso-a-paso-asi-se-distribuye-el-gasto-del-estado-1276631606/)
+
+Los políticos tienen el mandato de representarte en esas decisiones y ya sabemos que son los reyes a la hora de prometer y los últimos a la hora de entregar.
