@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Consecuencias exponenciales"
+date:   2020-03-13 01:30:30 +0100
+categories: jekyll update
+permalink: /distancia-social/
+---
+
+¿Por qué tanta bronca sobre la celebración de la manifestación del 8-M? ¿Cuál habría sido la diferencia?
+
+[Artículo de Tomas Pueyo: @tomaspueyo completo](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
+
+En el siguiente gráfico hay una simulación del crecimiento en la pandemia al retrasar en un día medidas de distancia social. Por supuesto, es un modelo matemático y como en todo modelo matemático has de realizar ciertas suposiciones para poder trabajar. La diferencia entre los contagios que se podrían realizar pero no ser realizan y los reales, son los que crean el 40% de diferencial a largo plazo.
+
+<img src="../assets/images/2020/03/20200313f1.jpg" alt="DistanciaSocial">
+
+Aquí hay otro gráfico muy curioso que muestra en el caso real de la pandemia de 1918 la diferencia entre las ciudades de Philadelphia y Saint Louis.
+
+<img src="../assets/images/2020/03/20200313f2.jpg" alt="PhiladelphiaStLouis">
+
+La consecuencia es que al tener St. Louis una curva más manejable la respuesta al contagio es mucho más sencilla de gestionar.
+
+<img src="../assets/images/2020/03/20200313f3.gif" alt="gifPhiladelphiaStLouis">
