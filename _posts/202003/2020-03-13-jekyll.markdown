@@ -10,11 +10,11 @@ permalink: /distancia-social/
 
 [Artículo de Tomas Pueyo: @tomaspueyo completo](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 
-En el siguiente gráfico hay una simulación del crecimiento en la pandemia al retrasar en un día las medidas de distancia social. Por supuesto, es un modelo matemático y como en todo modelo matemático has de realizar ciertas suposiciones para poder trabajar. La diferencia entre los contagios que se podrían realizar pero no ser produjeron y los reales, son los que crean el 40% de diferencial a largo plazo.
+En el siguiente gráfico hay una simulación del crecimiento en la pandemia al retrasar en un día las medidas de distancia social. Por supuesto, es un modelo matemático y como en todo modelo matemático has de realizar ciertas suposiciones para poder trabajar. La diferencia entre los contagios que se podrían realizar, pero no se produjeron y los reales, son los que crean el 40% de diferencial a largo plazo.
 
 <img src="../assets/images/2020/03/20200313f1.png" alt="DistanciaSocial">
 
-Aquí hay otro gráfico muy curioso que muestra en el caso real de la pandemia de 1918 la diferencia entre las ciudades de Philadelphia y Saint Louis. En Filadelfia, las autoridades no se tomaron en serio la pandemia cuando se inicio (17 de septiembre de 1918) y no tomaron medidas de distancia social hasta el 3 de octubre. Mientras, la autoridades de Saint Louis detectaron el primer caso el 5 de octubre e implementaron medidas el día 7.
+Aquí hay otro gráfico muy curioso que muestra en el caso real de la pandemia de 1918 la diferencia entre las ciudades de Filadelphia y Saint Louis. En Filadelfia, las autoridades no se tomaron en serio la pandemia cuando se inició (17 de septiembre de 1918) y no tomaron medidas de distancia social hasta el 3 de octubre. Mientras, las autoridades de Saint Louis detectaron el primer caso el 5 de octubre e implementaron medidas el día 7. Si España se lo toma con filosofía y actúa como Filadelfia que no te vengan luego a contar que era imposible saber a priori lo que iba a pasar.
 
 <img src="../assets/images/2020/03/20200313f2.png" alt="PhiladelphiaStLouis">
 
