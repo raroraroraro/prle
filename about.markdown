@@ -4,7 +4,7 @@ title: Acerca de
 permalink: /about/
 ---
 
-###- **¿Por qué somos el Partido Raro?**
+### **¿Por qué somos el Partido Raro?**
 
 Pues sencillamente porque a lo único que aspiramos, en este momento, es a no parecernos a ningún otro partido político. La sensación de hartazgo con la bronca política en general, y con la clase política en particular, es la principal motivación para montar este partido y si bien igual no tenemos muy claro lo que seremos en el futuro, lo que nos une hoy, es tener muy claro lo que no queremos acabar siendo. ¿Verdad que no hace falta explicarlo mejor?
 
@@ -27,7 +27,7 @@ Muchos nos llamarán raros de una forma despectiva aunque el verdadero significa
 Nosotros estamos aquí, intentando hacer las cosas bien, por si algún día quieres molestarte en buscarnos. Si tardas mucho y esperas a que el lodazal te cubra la nariz, pues quizá es que debiste empezar a preocuparte antes. En cualquier caso, la culpa no es de nadie más que de ti mismo y hasta que no aceptes tu responsabilidad, el problema no mejorará.
 
 
-###- **¿Cómo se organiza el partido?**
+### **¿Cómo se organiza el partido?**
 
 Una de las mayores dificultades a la hora de organizar a un grupo de personas para conseguir un objetivo consiste en alinear los intereses personales, con los del equipo y con los de toda la organización. Sea una empresa, un partido político o hasta un grupo de amigos resulta muy difícil lograr que se cumpla el siguiente objetivo:
 

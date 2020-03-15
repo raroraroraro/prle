@@ -1,5 +1,6 @@
 ---
 layout: page
 title: Vota
-permalink: /vota/
+# permalink: /vota/
+redirect_to: http://www.github.com
 ---
