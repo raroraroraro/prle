@@ -30,8 +30,8 @@ twitter_username: partidoraro
 github_username:  raroraroraro
 
 header_pages:
-  - about.md
-  - vota.md
+  - about.markdown
+  - vota.markdown
 
 # Build settings
 theme: minima

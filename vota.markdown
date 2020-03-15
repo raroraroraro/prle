@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Acerca de
-permalink: /about/
+title: Vota
+permalink: /vota/
 ---
