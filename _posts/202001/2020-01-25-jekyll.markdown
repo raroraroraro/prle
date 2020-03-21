@@ -8,24 +8,17 @@ permalink: /pandemia-coronavirus/
 Síguenos en Twitter para recibir las últimas actualizaciones: [@partidoraro](https://twitter.com/partidoraro)
 
 
-**ACTUALIZADO A 10/03/2020.**
+**ACTUALIZADO A 20/03/2020.**
 
-Hoy nos ha sorprendido un gráfico y una investigación sobre un caso de contagio en un ambiente cerrado que les resultará muy instructivo. Las conclusiones son que el virus puede sobrevivir en los fluidos humanos hasta 5 días y puede permanecer flotando una vez que un contagiado ha salido del recinto cerrado.
+Los periódicos están centrados en el número de casos por país cuando esa no es una medida homogenea. Sería mucho más interesante en el número de muertos por millón de habitantes. Las razones son dos: primero, en el número de infectados influye la variable de cuántos han pasado las pruebas de contagio (los números de Corea del Sur y de Irán no tienen nada que ver en este aspecto); segundo, las defunciones deberían de ser un número más estable aunque también están influidos por la calidad del sistema sanitario de cada país (que a su vez se ve influida por la saturación del sistema). En cualquier caso, los números nos colocan como el segundo país en el ranking mundial de fallecidos por Corona Virus. Un puesto nada alentador:
 
-Vayamos a lo curioso del caso: el 22 de enero durante la celebración de las fiestas del nuevo año chino, un autobús realizó un trayecto de larga distancia y varias personas resultaron contagiadas. Se recontruyeron los hechos y se realizó un croquis con la situación de los contagiados. Nuestro paciente 0 se situó en la segunda fila por atrás (en rojo) y llego a contagiar a personas situadas a casi a 5 metros de distanción por delante (en naranja) y a un pasajero que subió al autobús media hora después de que nuestro paciente 0 lo hubiera abandonado (en morado).
-
-<img src="../assets/images/2020/03/20200310f2.jpg" alt="Bus">
+<img src="../assets/images/2020/03/20200321f1.png" alt="PorMillon">
 
 No podemos dejar de expresar nuestro miedo ante las declaraciones del Presidente de EE.UU:
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck">
 <p dir="ltr" lang="en" xml:lang="en" xml:lang="en">Who knows what this means, but it sounds good to me! <a href="https://t.co/rQVA4ER0PV">https://t.co/rQVA4ER0PV</a></p>
 — Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1236778368533700609?ref_src=twsrc%5Etfw">March 8, 2020</a></blockquote>
-
-
-### CoronaVirus vs. Gripe estacional
-
-No soy virologo, pero algunos periodistas me hacen pensar cuando comparan la Pandemia de CoronaVirus con la gripe estacional. Con los datos que se pueden recabar, es cierto, que ambas pueden causar la muerte y en eso se parecen, aunque parece que la tasa de defunción para la gripe es de un 0.1%, mientras que la del CoronaVirus es más de un 3%. La tasa de propagación para la gripe es de un 1,28, mientras que para el CoronaVirus parece que es muy superior al 2,5 (pudiendo llegar al 4,0). La tasa de ingreso en UCI de la gripe es menor al 1% mientras que para el CoronaVirus rondaría un 20%. Todos los años hay gripe en China y sin embargo, ningún año ponen a millones de personas en cuarentena cerrando ciudades enteras. Si fueran lo mismo, creo que las medidas que han tomado serían parecidas todos los años. Sin embargo, es irresponsable lanzar un mensaje tranquilizador y actuar como si la cosa fuera muy en serio. La población se fija en la coherencia de la situación para sacar sus propias conclusiones.
 
 
 ## Artículo de Bill Gates en la [NEJM](https://www.nejm.org/doi/full/10.1056/NEJMp1806283)
@@ -80,6 +73,9 @@ Los formularios de divulgación proporcionados por el autor están disponibles e
 
 Publicamos este artículo como muestra de cómo deberían de ser las cosas desde el punto de vista de nuestro partido. Creemos que nuestra sociedad no necesita políticos que nos digan que todo va a ir bien. Nuestra sociedad necesita información para que cuando las cosas vayan mal, no podamos decir que nadie nos advirtió. Una sociedad adormecida por la información políticamente correcta es una sociedad incapaz de reaccionar ante los retos. Retos que nos esperan y que no van a desaparecer por no mirarlos de frente. Estas son nuestras razones.
 
+### CoronaVirus vs. Gripe estacional
+
+No soy virologo, pero algunos periodistas me dan qué pensar cuando comparan la Pandemia de CoronaVirus con la gripe estacional. Con los datos que se pueden recabar, es cierto, que ambas pueden causar la muerte y en eso se parecen, aunque parece que la tasa de defunción para la gripe es de un 0.1%, mientras que la del CoronaVirus es más de un 3%. La tasa de propagación para la gripe es de un 1,28, mientras que para el CoronaVirus parece que es muy superior al 2,5 (pudiendo llegar al 4,0). La tasa de ingreso en UCI de la gripe es menor al 1% mientras que para el CoronaVirus rondaría un 20% de los ingresados. Todos los años hay gripe en China y sin embargo, ningún año ponen a millones de personas en cuarentena cerrando ciudades enteras. Si fueran lo mismo, creo que las medidas que han tomado serían parecidas todos los años. Sin embargo, es irresponsable lanzar un mensaje tranquilizador cuando actuas como si la cosa fuera muy en serio. La población se fija en la coherencia de la situación para sacar sus propias conclusiones.
 
 ### El CoronaVirus toca España
 
@@ -382,8 +378,22 @@ Hay 4 posturas muy claras:
 - El projecto 1000 Genomes ha publicado la lista del riesgo de contraer el CoronaVirus para distintos genomas:
 
 <img src="../assets/images/2020/02/20200217f1.jpg" alt="Genomics">
---------------------------------------------------------------------------------
 
-- Si usted está leyendo esta información sea por que tiene a practicar el razonamiento crítico y a confiar en su propio juicio. Esto le convierte en rara avis, cuando hoy en dia, el sentido común y la prudencia son tan poco frecuentes.
+**ACTUALIZADO A 10/03/2020.**
+
+Hoy nos ha sorprendido un gráfico y una investigación sobre un caso de contagio en un ambiente cerrado que les resultará muy instructivo. Las conclusiones son que el virus puede sobrevivir en los fluidos humanos hasta 5 días y puede permanecer flotando una vez que un contagiado ha salido del recinto cerrado.
+
+Vayamos a lo curioso del caso: el 22 de enero durante la celebración de las fiestas del nuevo año chino, un autobús realizó un trayecto de larga distancia y varias personas resultaron contagiadas. Se recontruyeron los hechos y se realizó un croquis con la situación de los contagiados. Nuestro paciente 0 se situó en la segunda fila por atrás (en rojo) y llego a contagiar a personas situadas a casi a 5 metros de distanción por delante (en naranja) y a un pasajero que subió al autobús media hora después de que nuestro paciente 0 lo hubiera abandonado (en morado).
+
+<img src="../assets/images/2020/03/20200310f2.jpg" alt="Bus">
+
+No podemos dejar de expresar nuestro miedo ante las declaraciones del Presidente de EE.UU:
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck">
+<p dir="ltr" lang="en" xml:lang="en" xml:lang="en">Who knows what this means, but it sounds good to me! <a href="https://t.co/rQVA4ER0PV">https://t.co/rQVA4ER0PV</a></p>
+— Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1236778368533700609?ref_src=twsrc%5Etfw">March 8, 2020</a></blockquote>
+
+--------------------------------------------------------------------------------
+- Cuando hoy en dia, el sentido común y la prudencia son tan poco frecuentes, el razonamiento crítico y el juicio personal pueden convertirle en un rara avis.
 
 # Informe diario de la [OMS/WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) sobre la situación.
