@@ -10,7 +10,7 @@ Síguenos en Twitter para recibir las últimas actualizaciones: [@partidoraro](h
 
 **ACTUALIZADO A 20/03/2020.**
 
-Los periódicos están centrados en el número de casos por país cuando esa no es una medida homogenea. Sería mucho más interesante en el número de muertos por millón de habitantes. Las razones son dos: primero, en el número de infectados influye la variable de cuántos han pasado las pruebas de contagio (los números de Corea del Sur y de Irán no tienen nada que ver en este aspecto); segundo, las defunciones deberían de ser un número más estable aunque también están influidos por la calidad del sistema sanitario de cada país (que a su vez se ve influida por la saturación del sistema). En cualquier caso, los números nos colocan como el segundo país en el ranking mundial de fallecidos por Corona Virus. Un puesto nada alentador:
+Los periódicos están centrados en el número de casos por país cuando esa no es una medida homogénea. Sería mucho más interesante en el número de muertos por millón de habitantes. Las razones son dos: primero, en el número de infectados influye la variable de cuántos han pasado las pruebas de contagio (los números de Corea del Sur y de Irán no tienen nada que ver en este aspecto); segundo, las defunciones deberían de ser un número más estable, aunque también están influidos por la calidad del sistema sanitario de cada país (que a su vez se ve influida por la saturación del sistema). En cualquier caso, los números nos colocan como el segundo país en el ranking mundial de fallecidos por Corona Virus. Un puesto nada alentador:
 
 <img src="../assets/images/2020/03/20200321f1.png" alt="PorMillon">
 
