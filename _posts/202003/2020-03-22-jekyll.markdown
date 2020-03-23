@@ -21,3 +21,15 @@ Lo mismo pasa con los políticos. Aguantamos su vacuidad en época de bonanza. C
 
 
 Artículo de Juan Zamora Terrés (@JUANZAMORAT) 22 marzo, 2020 (recibido por Wasap). No hemos podido resistir la tentación de publicarlo sin conocerle siquiera, pero es que no se puede explicar mejor. Esperamos que nos sepa perdonar por el atrevimiento. Perdón.
+
+
+
+<strong>Debate y participa con tu voto y tus argumentos:</strong><br />
+<div id="QON-debate-5966201" class="qon-debate-widget" style="padding: 10px;">Cargando el debate... Si el debate no se muestra, puedes verlo en  <a href="http://vota.partidoraro.es/debate/quien-crees-que-lo-haria-mejor-en-la-crisis-del-covid19">http://vota.partidoraro.es/debate/quien-crees-que-lo-haria-mejor-en-la-crisis-del-covid19</a></div>
+<script>(function() { var script = document.createElement('script');
+script.async = true; script.src = 'http://vota.partidoraro.es/qonwidget.js';
+var entry = document.getElementsByTagName('script')[0];
+entry.parentNode.insertBefore(script, entry);
+})();</script>
+<script type="text/javascript" src='https://www.google.com/jsapi'></script>
+<script type="text/javascript"> google.load('visualization', '1.0', {'packages':['corechart']}); </script>
