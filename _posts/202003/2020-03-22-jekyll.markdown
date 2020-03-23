@@ -33,3 +33,7 @@ entry.parentNode.insertBefore(script, entry);
 })();</script>
 <script type="text/javascript" src='https://www.google.com/jsapi'></script>
 <script type="text/javascript"> google.load('visualization', '1.0', {'packages':['corechart']}); </script>
+
+
+<strong>Debate y participa con tu voto y tus argumentos:</strong><br />
+<iframe id="qonIframe-5966201" src="http://vota.partidoraro.es/i/debate/5966201?dname=COM" style="width:98%;height:800px;border: 0px;"></iframe>
