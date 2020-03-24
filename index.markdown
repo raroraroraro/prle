@@ -4,6 +4,9 @@
 
 layout: home
 ---
+
+* PARTIDO POR UN VOTO IGUAL Y ELIMINAR EL SENADO
+
 ¿A ti también te parece que en los últimos años todo ha cambiado para seguir igual que siempre? ¿Sigues votando a personas en vez de escoger leyes o apoyar iniciativas? ¿Sigues quejándote de la clase política porque no te sientes representado? Este partido nace para que tú puedas actuar y dejes de sentirse utilizado cada 4 años (o cada vez que los partidos necesitan tu voto).
 
 Las principales líneas de actuación son:
