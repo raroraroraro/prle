@@ -7,7 +7,7 @@
 .site-title::before {
 	content: url("/assets/LogoRaro.jpg");
 	display: inline-block;
-	position: static;
+	position: relative;
 	width: 5px;
 	top: 10px;
 }
