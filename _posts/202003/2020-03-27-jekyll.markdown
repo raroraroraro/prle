@@ -14,7 +14,8 @@ Muchas medidas de emergencia a corto plazo se convertirán en un elemento vital.
 
 En este momento de crisis, enfrentamos dos opciones particularmente importantes. El primero es entre la vigilancia totalitaria y el empoderamiento ciudadano. El segundo es entre el aislamiento nacionalista y la solidaridad global.
 
-**Vigilancia bajo la piel**
+
+### **Vigilancia bajo la piel**
 
 Para detener la epidemia, poblaciones enteras deben cumplir con ciertas pautas. Hay dos formas principales de lograr esto. Un método es que el gobierno monitoree a las personas y castigue a quienes infringen las reglas. Hoy, por primera vez en la historia humana, la tecnología hace posible monitorear a todos todo el tiempo. Hace cincuenta años, la KGB no podía seguir a 240 millones de ciudadanos soviéticos las 24 horas del día, ni podía esperar procesar efectivamente toda la información reunida. La KGB dependía de agentes y analistas humanos, y simplemente no podía ubicar a un agente humano para seguir a todos los ciudadanos. Pero ahora los gobiernos pueden confiar en sensores ubicuos y algoritmos poderosos en lugar de fantasmas de carne y hueso.
 
@@ -24,7 +25,8 @@ Este tipo de tecnología no se limita al este de Asia. El primer ministro israel
 
 Podría argumentar que no hay nada nuevo en todo esto. En los últimos años, tanto los gobiernos como las corporaciones han estado utilizando tecnologías cada vez más sofisticadas para rastrear, monitorear y manipular a las personas. Sin embargo, si no tenemos cuidado, la epidemia podría marcar un hito importante en la historia de la vigilancia. No solo porque podría normalizar el despliegue de herramientas de vigilancia masiva en países que hasta ahora las han rechazado, sino aún más porque significa una transición dramática de la vigilancia "sobre la piel" a "bajo la piel". Hasta ahora, cuando su dedo tocaba la pantalla de su teléfono inteligente y hacía clic en un enlace, el gobierno quería saber exactamente en qué estaba haciendo clic. Pero con el coronavirus, el foco de interés cambia. Ahora el gobierno quiere saber la temperatura de su dedo y la presión arterial debajo de su piel.
 
-**El pudin de emergencia**
+
+### **El pudin de emergencia**
 
 Uno de los problemas que enfrentamos al determinar dónde estamos parados en la vigilancia es que ninguno de nosotros sabe exactamente cómo estamos siendo vigilados y qué nos depararán los próximos años. La tecnología de vigilancia se está desarrollando a una velocidad vertiginosa, y lo que parecía ciencia ficción hace 10 años son hoy viejas noticias. Como experimento mental, considere un gobierno hipotético que exige que cada ciudadano use un brazalete biométrico que monitorea la temperatura corporal y la frecuencia cardíaca las 24 horas del día. Los datos resultantes son atesorados y analizados por algoritmos gubernamentales. Los algoritmos sabrán que estás enfermo incluso antes de que lo sepas, y también sabrán dónde has estado y a quién has conocido. Las cadenas de infección podrían acortarse drásticamente e incluso cortarse por completo. Tal sistema podría detener la epidemia en cuestión de días. Suena maravilloso, ¿verdad?
 
@@ -34,7 +36,8 @@ Podría, por supuesto, defender la vigilancia biométrica como una medida tempor
 
 Incluso cuando las infecciones por coronavirus se reducen a cero, algunos gobiernos hambrientos de datos podrían argumentar que necesitan mantener los sistemas de vigilancia biométrica en su lugar porque temen una segunda ola de coronavirus, o porque hay una nueva cepa de Ébola en África central, o porque . . . entiendes la idea. Se ha librado una gran batalla en los últimos años por nuestra privacidad. La crisis del coronavirus podría ser el punto de inflexión de la batalla. Para cuando las personas tienen la opción de elegir entre privacidad y salud, generalmente elegirán la salud.
 
-**La policía de jabón**
+
+### **La policía de jabón**
 
 Pedirle a la gente que elija entre privacidad y salud es, de hecho, la raíz del problema. Porque esta es una elección falsa. Podemos y debemos disfrutar tanto de la privacidad como de la salud. Podemos elegir proteger nuestra salud y detener la epidemia de coronavirus no instituyendo regímenes de vigilancia totalitaria, sino empoderando a los ciudadanos. En las últimas semanas, Corea del Sur, Taiwán y Singapur organizaron algunos de los esfuerzos más exitosos para contener la epidemia de coronavirus. Si bien estos países han utilizado algunas aplicaciones de seguimiento, se han basado mucho más en pruebas exhaustivas, en informes honestos y en la cooperación voluntaria de un público bien informado.
 
@@ -50,7 +53,8 @@ Si pudiera rastrear mi propia condición médica las 24 horas del día, aprender
 
 La epidemia de coronavirus es, por lo tanto, una prueba importante de ciudadanía. En los días venideros, cada uno de nosotros debería optar por confiar en los datos científicos y los expertos en atención médica sobre las teorías de conspiración infundadas y los políticos egoístas. Si no tomamos la decisión correcta, podríamos encontrarnos renunciando a nuestras libertades más preciadas, pensando que esta es la única forma de salvaguardar nuestra salud.
 
-**Necesitamos un plan global**
+
+### **Necesitamos un plan global**
 
 La segunda opción importante que enfrentamos es entre el aislamiento nacionalista y la solidaridad global. Tanto la epidemia como la crisis económica resultante son problemas mundiales. Solo se pueden resolver de manera efectiva mediante la cooperación global.
 
