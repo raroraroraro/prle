@@ -4,8 +4,6 @@ title: Política de Galletas
 permalink: /politica-cookies/
 ---
 
-### **Politica de Galletas**
-
 # ¿Qué son las galletas, aka ‘cookies’ ;-)?
 
 Las cookies son archivos que las páginas web almacenan en el navegador del usuario que las visita, necesarias para aportar a la navegación web ventajas en la prestación de servicios interactivos.
