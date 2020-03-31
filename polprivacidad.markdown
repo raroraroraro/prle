@@ -4,8 +4,6 @@ title: Política de Privacidad
 permalink: /politica-privacidad/
 ---
 
-### **Politica Privacidad**
-
 En el Partido por un voto igual y eliminar el senado, titular de www.partidoraro.es, con domicilio social en la calle C/. Juan Gris, nº 10, de Galapagar, 28420 (Madrid, España) estamos preocupados por la seguridad y por garantizar y proteger la privacidad de los datos aportados por los usuarios de nuestro sitio web. Por ello, garantizamos que el tratamiento de los datos se efectúa garantizando unos niveles de seguridad que impiden la pérdida, manipulación de los datos o accesos no autorizados.
 
 A efectos del cumplimiento con lo dispuesto en el Reglamento (UE) 2016/679, y de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el Partido por un voto igual y eliminar el senado informa de que todos los datos de carácter personal que nuestros usuarios aporten al Partido por un voto igual y eliminar el senado incluida la dirección IP del equipo o el dispositivo desde el que accede-, bien sea a través de cualquier registro o suscripción a los servicios del sitio web bien mediante el envío de comentarios u observaciones por correo electrónico, web, formularios, herramientas de publicidad, etc., serán incluidos en un fichero cuyo titular y responsable es el Partido Popular, y serán tratados con la máxima confidencialidad.
