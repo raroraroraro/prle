@@ -6,6 +6,13 @@ categories: jekyll update
 permalink: /laLibertaddePreguntar/
 ---
 
+
+<iframe src='http://widget.allourideas.org/PartidoRaro_1' width='550' height='650' frameborder='0' scrolling='no'></iframe>
+
+
+**PD: Creemos que no solo los periodistas, sino todos los ciudadanos tenemos el derecho a preguntar. Quizá, la mejor pregunta sea la de un ciudadano anónimo y para demostrarlo queremos utilizar la tecnología (que otros ciudadanos han puesto a nuestro alcance) para organizar un sistema de preguntas en el que todos podamos preguntar y todos participamos a la hora de escoger la pregunta que más nos interesa de un modo demostrable!**
+
+
 En una situación de crisis el derecho a la información es más importante que nunca. Con España en estado de alarma, el Gobierno disfruta de unos poderes muy superiores a los normales, por lo que es importante que la prensa realice su labor de control, más aún cuando el Parlamento ha limitado enormemente su actividad. La principal forma de ejercer esta función desde el periodismo es a través de las preguntas -y las repreguntas- a los miembros del Gobierno.
 
 Sin embargo, la Secretaría de Estado de Comunicación ha organizado un sistema en el que todas las preguntas enviadas por los periodistas pasan necesariamente por el filtro del secretario de Estado, que es quien se está ocupando personalmente de formulárselas al presidente, a los ministros o a los técnicos. Es más, el propio secretario de Estado ha llegado a formular alguna pregunta al presidente del Gobierno, o incluso ha tratado de corregir públicamente a alguno de los técnicos.
@@ -16,15 +23,6 @@ En ningún caso la declaración del estado de alarma supone una merma en la apli
 
 Por todo ello, reclamamos el inmediato cambio del procedimiento para todas las ruedas de prensa y comparecenecias de miembros del Gobierno y solicitamos el apoyo de los profesionales de la comunicación a una reivindicación no partidaria que mejorará la calidad democrática en España y el ejercicio de nuestros derechos civiles amparados en la constitución, máximo garante de nuestra convivencia, especialmente en situaciones excepcionales como la que vivimos.
 Si quieres sumarte a nuestra reivindicación escribe al siguiente correo electrónico: lalibertaddepreguntar@gmail.com
-
-
-
-
-**PD: Creemos que no solo los periodistas, sino todos los ciudadanos tenemos el derecho a preguntar. Quizá, la mejor pregunta sea la de un ciudadano anónimo y para demostrarlo queremos utilizar la tecnología (que otros ciudadanos han puesto a nuestro alcance) para organizar un sistema de preguntas en el que todos podamos preguntar y todos participamos a la hora de escoger la pregunta que más nos interesa de un modo demostrable!**
-
-
-<iframe src='http://widget.allourideas.org/PartidoRaro_1' width='550' height='650' frameborder='0' scrolling='no'></iframe>
-
 
 FIRMANTES:
 
