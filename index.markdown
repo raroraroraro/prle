@@ -27,3 +27,5 @@ Las principales líneas de actuación son:
 ¡Si algunas de estas ideas te recuerdan a otros partidos, quizá sea hora de que pienses si esos partidos te han fallado!
 
 Las iniciativas políticas dependen de ti y del apoyo que logres. Iremos añadiendo las medidas que recibamos y consideremos de interés público. Si quieres contactarnos porque perteneces a un grupo o una organización que desea visibilizar sus propuestas, escríbenos un correo electrónico. Sé breve y ten paciencia, nuestros recursos son muy limitados.
+
+>"La política es el camino para que los hombres sin principios puedan dirigir a los hombres sin memoria." Voltaire
