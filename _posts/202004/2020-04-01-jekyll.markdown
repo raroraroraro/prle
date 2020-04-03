@@ -6,7 +6,7 @@ categories: jekyll update
 permalink: /laLibertaddePreguntar/
 ---
 
-Puedes añadir tu pregunta y elegir la pregunta que más te gusta entre las que te van apareciendo. En la pestaña de Ver Resultados puedes ver cuál es la pregunta preferida por los votantes.
+Puedes añadir tu pregunta y/o elegir la pregunta que más te gusta entre las que ya se han hecho y que te van apareciendo. En la pestaña de Ver Resultados puedes ver cuál es la pregunta preferida por los votantes.
 
 <iframe src='http://widget.allourideas.org/PartidoRaro_1' width='550' height='650' frameborder='0' scrolling='no'></iframe>
 
