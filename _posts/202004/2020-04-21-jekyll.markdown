@@ -3,7 +3,7 @@ layout: post
 title:  "Podemos: el  partido de la familia Iglesias"
 date:   2020-04-21 01:30:30 +0100
 categories: jekyll update
-permalink: /podemos-familia-Iglesiaas/
+permalink: /familia-Iglesias-Podemos/
 ---
 
 Parece que Unidas Podemos se ha convertido en el partido de la familia Iglesias, donde dos personas hacen y deshacen a su antojo y los demás les siguen o acaban fuera. Por si no fuera suficiente, Pablo Iglesias tiene una concepción de la política de una honestidad dudosa, aunque mejor es que lo juzguen ustedes mismos:

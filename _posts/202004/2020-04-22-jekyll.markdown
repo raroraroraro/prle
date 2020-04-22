@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Día Internacional de la Tierra"
+date:   2020-04-22 01:30:30 +0100
+categories: jekyll update
+permalink: /dia-tierra-onu/
+---
+
+Hoy es el [Día Internacional de la Tierra](https://es.wikipedia.org/wiki/D%C3%ADa_de_la_Tierra) y en la [ONU lo han celebrado así](https://www.un.org/es/observances/earth-day)
+
+Dedicado a [Gaylord Nelson](https://es.wikipedia.org/wiki/Gaylord_Nelson)
