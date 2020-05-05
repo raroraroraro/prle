@@ -24,7 +24,7 @@ Las principales líneas de actuación son:
 <iframe width="480" height="360" src="//www.youtube.com/embed/J1b4nJEfdLw" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 [Intervención de Pepe Mujica:](https://youtu.be/J1b4nJEfdLw)
 
-Déjanos plantearte una pregunta: Si la persona mejor preparada para dirigir el país no militara en un partido político ¿podría llegar a ser nombrado Presidente del Gobierno de España?
+**GOBIERNO DE CONCENTRACIÓN NACIONAL:** Ante la emergencia económica y social provocada por el CoVid19, déjanos plantearte una pregunta: Si la persona mejor preparada para dirigir el país no militara en un partido político ¿podría llegar a ser nombrado Presidente del Gobierno de España? La situación actual nos lleva a pedir un gobierno de concentración formado por los mejores gestores y sin políticos al frente. Si esperas que los políticos te saquen del problema, no te sorprendas con el resultado.
 
 Las iniciativas políticas dependen de ti y del apoyo que logres. Iremos añadiendo las medidas que recibamos y consideremos de interés público. Si quieres contactarnos porque perteneces a un grupo o una organización que desea visibilizar sus propuestas, escríbenos un correo electrónico. Sé breve y ten paciencia, nuestros recursos son muy limitados.
 
