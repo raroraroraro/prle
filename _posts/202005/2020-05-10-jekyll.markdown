@@ -3,7 +3,7 @@ layout: post
 title:  "¿Qué tipo de perfil queremos en nuestros políticos? (Por Lorenzo Fiore)"
 date:   2020-05-10 01:30:30 +0100
 categories: jekyll update
-permalink: /perfil-politico-/
+permalink: /perfil-politicos-españa-xlf/
 ---
 
 Después de casi 8 semanas de confinamiento y de estar sobrexpuesto a información, estoy percibiendo o notando que un ‘nuevo sentimiento político’ se está extendiendo entre mi círculo de amigos y familiares. Se trata de una desafección política, pero no el mismo tipo de desafección que cuando este país se vio azotado por los casos de corrupción, sino que por primera vez algunos ciudadanos se han dado cuenta de que la clase dirigente de este país no está preparada para solucionar problemas reales y de impacto inmediato en la sociedad.
