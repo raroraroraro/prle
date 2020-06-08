@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  "Las alertas climáticas siguen sonando"
-date:   2020-06-07 01:30:30 +0100
+date:   2020-06-08 01:30:30 +0100
 categories: jekyll update
 permalink: /T21-Las-alertas-climaticas-siguen-sonando/
 ---
 
-https://www.tendencias21.net/Las-alertas-climaticas-siguen-sonando_a45918.html
-
-[] Artículo ofrecido por tendencias21 (https://www.tendencias21.net/Las-alertas-climaticas-siguen-sonando_a45918.html)
+[Artículo publicado en Tendencias21.net](https://www.tendencias21.net/Las-alertas-climaticas-siguen-sonando_a45918.html)
