@@ -6,4 +6,4 @@ categories: jekyll update
 permalink: /T21-Las-alertas-climaticas-siguen-sonando/
 ---
 
-[Artículo publicado en Tendencias21.net](https://www.tendencias21.net/Las-alertas-climaticas-siguen-sonando_a45918.html)
+[Artículo publicado en Tendencias21.net](https://www.tendencias21.net/Las-alertas-climaticas-siguen-sonando_a45918.html){:target="_blank"}
