@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "El coronavirus podria estar debilitandose"
+date:   2020-06-09 01:30:30 +0100
+categories: jekyll update
+permalink: /T21-El-coronavirus-podria-estar-debilitandose/
+---
+
+[Artículo publicado en Tendencias21.net](https://www.tendencias21.net/El-coronavirus-podria-estar-debilitandose_a45920.html){:target="_blank"}
