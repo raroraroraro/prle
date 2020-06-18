@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Se acelera la sexta gran extinción"
+date:   2020-06-18 01:30:30 +0100
+categories: jekyll update
+permalink: /T21-Se-acelera-la-sexta-gran-extinción/
+---
+
+[Artículo publicado en Tendencias21.net](https://www.tendencias21.net/Se-acelera-la-sexta-gran-extincion_a45923.html){:target="_blank"}
