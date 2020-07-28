@@ -7,7 +7,7 @@ layout: home
 
 **[PARTIDO POR UN VOTO IGUAL Y ELIMINAR EL SENADO](https://sede.mir.gob.es/nfrontal/webpartido_politico.html)**
 
-Descripción:¿No te parece que en los últimos años todo ha cambiado para seguir igual que siempre? ¿Sigues esperando a que los políticos resuelvan tus problemas? ¿Votas por líderes o partidos políticos en vez de escoger leyes o apoyar iniciativas? ¿Sigues sin sentirte representado por la clase política? El Partido Raro nace para que los políticos dejen de secuestrar tu voto cada 4 años. ¡Democracia directa puesta en práctica!
+¿No te parece que en los últimos años todo ha cambiado para seguir igual que siempre? ¿Sigues esperando a que los políticos resuelvan tus problemas? ¿Votas por líderes o partidos políticos en vez de escoger leyes o apoyar iniciativas? ¿Sigues sin sentirte representado por la clase política? El Partido Raro nace para que los políticos dejen de secuestrar tu voto cada 4 años. ¡Democracia directa puesta en práctica!
 
 Las principales líneas de actuación son:
 
