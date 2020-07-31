@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "¿Qué es un tonto útil?"
+date:   2020-08-01 01:30:30 +0100
+categories: jekyll update
+permalink: /tonto-util/
+---
+
+Hablamos de tontos útiles para referirnos a esos políticos que, no siendo capaces de llegar a nada en la vida por sí mismos, establecen un acuerdo con las personas que mueven los partidos políticos para dar la cara frente al electorado, ser la imagen del partido, convencer a los votantes de sus buenas intenciones y vendiendo humo lograr el poder.
+
+Una vez son elegidos podrán satisfacer los intereses de quienes les han lanzado como cabezas visibles del partido y cumplir la agenda de sus patrocinadores.
+
+El tonto útil consume su vida política cuando el país cae en una depresión económica o cuando la corrupción hace su posición insostenible. Para entonces, el tonto útil deberá haberse labrado un futuro o haber obtenido suficientes beneficios de los favores concedidos durante su mandato.
+El tonto útil, en contraposición al tonto inútil o desgraciado, vive de la política y de sus votantes. Es oportuno leer [‘Las leyes fundamentales de la estupidez humana’ de Cipolla](https://dialnet.unirioja.es/descarga/articulo/4934893.pdf)
+
+
+Hay otras deficiones de [tonto útil](https://es.wikipedia.org/wiki/Idiota_%C3%BAtil), pero a nosotros nos gusta ésta.
