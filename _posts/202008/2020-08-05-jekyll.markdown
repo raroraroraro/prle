@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "¿Qué es un tonto útil?"
+date:   2020-08-05 01:30:30 +0100
+categories: jekyll update
+permalink: /huerto-urbano/
+---
+
+Algunos años después del 15-M, sería 2015, solía pasear los domingos, con mi pareja, por el Matadero y siempre me paraba frente a un pequeño descampado en el que un cartel rezaba:
+
+“¿Cómo sería un huerto urbano en Matadero?” El cartel continuaba explicando las bondades de la idea.
+
+<img src="../assets/images/2020/04/20200805f1.png" alt="#HuertoUrbano">
+
+La primera vez que lo vimos nos paramos a leer la iniciativa que nos encantó y nos ilusionó. Volvimos a casa comentado lo bien que estaría que se desarrollaran ese tipo de iniciativas. Algunos meses más tarde había una pequeña casa de madera con algo de material y pensamos que pronto empezarían a trabajar en ello y veríamos cómo se materializaba el sueño.
+
+Pasaron los meses y los trabajos no se iniciaban. Nosotros procurábamos siempre que paseábamos por Matadero incluir en la ruta el descampado del huerto urbano. Pasaron uno y luego dos años, pero aquello no acababa de arrancar.
+
+Un día buscando en Internet incluso encontré una web sobre [mi esperado huerto urbano](https://www.mataderomadrid.org/programacion/como-seria-una-huerta-en-matadero) donde podéis ver el descampado vallado y una docena de personas posando para la foto. Pasaron la fecha de inicio y la de fin, pasó 2018 y 2019, pero el descampado seguía yermo y seco.
+
+<img src="../assets/images/2020/04/20200805f2.png" alt="#HuertoUrbanoWeb">
+
+Al final quitaron las vallas, lo abrieron y retiraron el cartel. ¿Has visto un huerto urbano en matadero? Pues yo tampoco.
+
+Los huertos no son lo mío, pero os puedo asegurar que resulta muy complicado encontrar ciudadanos que se quieran involucrar a la hora de mejorar lo que es de todos.
+
+El capitalismo se basa en la avaricia, mientras el comunismo lo hace en la generosidad. Es sorprendente que el primero haya triunfado sobre el segundo y aunque eso no diga mucho sobre nosotros – los humanos; a veces toca saber aceptar la realidad. Como decía Yogui Berra: “En teoría la teoría y la práctica son iguales; en la práctica no”.
