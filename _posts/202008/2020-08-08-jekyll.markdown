@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "¿Por qué a los comunistas no les gusta dividir (u odian los happynomics)?"
+date:   2020-08-05 01:30:30 +0100
+categories: jekyll update
+permalink: /happynomics/
+---
+
+¿Por qué a los comunistas no les gusta dividir (u odian los happynomics)?
+
+_-	¿A qué te refieres? ¿Estás intentando tentarnos a hacer clic y leer?
+-	No_
+
+Es una pregunta que hay que entrar a explicar y que les ocurre también a otros grupos ideológicos, pero en el caso de los comunistas esa incapacidad resulta más sangrante.
+
+Vamos a entrar en materia con la definición de pobreza. Según la RAE:
+
+>1. f. Cualidad de pobre.
+>2. f. Falta, escasez.
+>3. f. Dejación voluntaria de todo lo que se posee, y de todo lo que el amor propio puede juzgarnecesario, de la cual hacen voto público los religiosos el día de su profesión.
+>4. f. Escaso haber de la gente pobre.
+>5. f. Falta de magnanimidad, de gallardía, de nobleza del ánimo.
+
+Me quedo con la segunda definición: falta, escasez, por ejemplo, falta de comida o escasez de educación, falta de una sanidad de calidad.
+Para embrollar más el asunto podemos añadir que la economía se ocupa de los bienes económicos: aquellos que son escasos; eso incluye tanto la leche, como un jet privado, pero no el aire que respiramos y que podemos consumir libremente sin que nadie nos lo tenga que suministrar (por ahora). A medida que se destruya el planeta muchas cosas de las que hemos gozado sin prestar atención pueden convertirse en un bien económico.
+A muchos les resulta indignante vivir en una sociedad que debería tener suficientes recursos para asegurar un mínimo vital a cada persona respetando la declaración de derechos humanos que en su artículo 22 dice:
+
+Toda persona, como miembro de la sociedad, tiene derecho a la seguridad social, y a obtener, mediante el esfuerzo nacional y la cooperación internacional, habida cuenta de la organización y los recursos de cada Estado, la satisfacción de los derechos económicos, sociales y culturales, indispensables a su dignidad y al libre desarrollo de su personalidad.
+
+Sin embargo, hay varias partes que resultan vagas como qué se debe considerar como digno (los que tienen menos recursos querrán compararse con el que más tiene y los que tienen más querrán que se compare con aquel que menos posee). También es debatible hablar sobre qué incluye el desarrollo de la propia personalidad. Por si fuera poco, el artículo 17, lo complica todo un poco más:
+```
+1. Toda persona tiene derecho a la propiedad, individual y colectivamente.
+2. Nadie será privado arbitrariamente de su propiedad.
+```
+Podemos discutir todo el día, sin llegar a un acuerdo, sobre qué principio es superior al otro y que entendemos como un derecho.
+En cualquier caso, podemos bajar los pies a la realidad para darnos cuenta de que desde que el mundo es mundo, la desigualdad ha imperado en cualquier sistema económico: comunista, socialista, liberal o conservador.
+
+Quizá sea el momento de dar dos pasos atrás e intentar un enfoque diferente. A cualquier estudiante de economía le explican en clase que la riqueza per cápita de un país se calcula sumando en el numerador toda la riqueza del país y dividiéndola entre el número de personas que la integran. Ahí está la clave, en el denominador. El enfoque actual pasa por hacer crecer el numerador lo máximo posible sin pararse demasiado a considerar las implicaciones a largo plazo que tal crecimiento pueda provocar, pero ¿por qué resulta tan difícil abrir un debate sobre reducir el denominador? ¿Seríamos capaces de organizar el decrecimiento del denominador que nos llevara a vivir en un mundo donde todos gozáramos de recursos suficientes para vivir sin castigar al planeta?
+
+Imaginemos un país como el nuestro con casi 47 millones de habitantes y que con una renta per cápita de 30.370,89 USD (2018) redujera su población a la mitad (¿automáticamente se duplicaría la renta per cápita a +60.000 $?). ¿Y si fuéramos una décima parte? Podríamos pensar que seríamos más ricos que en Kuwait. Bueno, no vayamos tan rápido. Primero, porque al reducir la población, también se reduciría el número de trabajadores y la producción, pero pensad una cosa. Los economistas siempre hablan de renta per cápita para referirse a la riqueza generada en un país durante un año, es decir a lo que producimos ese año. Tu y yo sabemos que hay gente muy rica que no produce nada, sencillamente tiene patrimonio. ¿Por qué no se habla de patrimonio per cápita? Ahí si que mi argumento se sostiene mejor. Imagina que en tu edificio viviera una décima parte de los vecinos que viven actualmente. Si cada planta tuviera 10 pisos y 9 estuvieran vacíos al haberse reducido la población en un 90% ¿cuánto tiempo tardarían en bajar los precios de los pisos hasta reflejar la necesidad real de espacio de tu familia? No lo sé, pero te puedo asegurar que los precios bajarían y mucho. Llevaría su tiempo, pero oferta y demanda se ajustarían en un nuevo precio (muy por debajo). ¿Ocuparía tu familia el equivalente a una planta? ¿Qué pasaría con las casas de vacaciones, los terrenos de cultivo y los espacios masificados si la población fuera un 10% de la actual? Bueno, quizá no todo mejoraría de golpe, pero seguramente lo haría poco a poco. Quizá acabaríamos discutiendo sobre la economía de la abundancia (_happynomics_).
+
+Es evidente que una solución de este tipo debe llevarse a cabo en todos los países del mundo para que su efecto no provoque migraciones, tal y como está ocurriendo en la actualidad, de unos países superpoblados y pobres a otros de mayor riqueza.
+
+¿Se mantendría la actual pobreza y los males endémicos de África si en vez de ser 1.260 millones de personas fueran 126 millones? Ya sé que la desigualdad seguiría imperando, pero no creo que la escasez fuera la misma. ¿Tendría el mismo valor un trabajo manual como la limpieza del hogar si la riqueza de las personas hubiera rebasado el mínimo vital que les permitiera formarse y dedicarse a otras labores de mayor valor añadido? Yo creo que no. ¿Qué salario se pagaría por los trabajos que nadie desea hacer si nadie tuviera necesidad de hacerlos por dinero? Creo que reduciendo el número de personas lo suficiente, el personal de limpieza pasaría a ser un lujo y no uno de los trabajos peor pagados y menos agradecidos; por poner un ejemplo.
+
+```
+La revolución proletaria sigue esperando que las contradicciones inherentes al sistema capitalista que conducen a una separación radical entre una minoría de capitalistas y una mayoría de proletarios que habrían de alcanzar conciencia de clase culminaría con la llegada de la dictadura del proletariado en la que los proletarios tomarían el control de los medios de producción y del aparato del Estado.
+```
+
+¡Si supieran dividir, la mitad de bien de lo que hablan! Pues miren, esperen sentados porque parece que cada vez le queda más tiempo. Sin embargo, si la clase obrera se hubiera percatado de que sin hijos no hay tanto gasto, mucho menos habrían sufrido el yugo capitalista. Muchas veces la mejor solución para un juego en el que vas a perder seguro es no jugar, aunque muchos se empeñen en pelearlo con más fuerza. Ahora bien, si piensas que la única forma de realizarte como persona es tener un montón de hijos que no puedas mantener y condenarlos a una vida de pobreza y privación, pues tendrás que aceptar alguna responsabilidad en las consecuencias ¿no? Al menos habrás ayudado al explotador capitalista a engendrar el problema.
+
+Muchos son más de multiplicar que de dividir. Yo, personalmente, no lo entiendo ni lo comparto.
