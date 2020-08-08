@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "¿Cómo sería un huerto urbano en Matadero?"
+title:  "¿Cómo sería una huerta en Matadero?"
 date:   2020-08-05 01:30:30 +0100
 categories: jekyll update
 permalink: /huerto-urbano/
@@ -8,7 +8,7 @@ permalink: /huerto-urbano/
 
 Algunos años después del 15-M, sería 2015, solía pasear los domingos, con mi pareja, por el Matadero y siempre me paraba frente a un pequeño descampado en el que un cartel rezaba:
 
-“¿Cómo sería un huerto urbano en Matadero?” El cartel continuaba explicando las bondades de la idea.
+“¿Cómo sería una huerta en Matadero?” El cartel continuaba explicando las bondades de la idea.
 
 <img src="../assets/images/2020/08/20200805f1.jpg" alt="#HuertoUrbano">
 
