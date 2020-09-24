@@ -13,7 +13,7 @@ Cuando te quede claro que los partidos políticos desean tener el poder por amor
 
 >Hasta que no tengas conciencia de tu fuerza, no te rebelarás, y hasta después de haberte rebelado, no serás consciente de tu fuerza. (1984)
 
-El Partido Raro nace para que no dejes a nuestros políticos secuestrar tu voto cada 4 años ([y dejes de sentirte como un tonto útil](http://www.partidoraro.es/tonto-util/)).
+El Partido Raro nace para que no dejes a nuestros políticos secuestrar tu voto cada 4 años ([y dejes de sentirte como un "tonto útil"](http://www.partidoraro.es/tonto-util/)).
 
 **¡Democracia directa puesta en práctica!**
 
