@@ -2,9 +2,14 @@
 
 ¿No te parece que en los últimos años todo ha cambiado para seguir igual que siempre? ¿Sigues esperando a que los políticos resuelvan tus problemas? ¿Votas por líderes o partidos políticos en vez de escoger leyes o apoyar iniciativas? ¿Sigues sin sentirte representado por la clase política?
 
-El Partido Raro nace para que no dejes a nuestros políticos secuestrar tu voto cada 4 años y dejes de sentirte como un ([tontos útil](http://www.partidoraro.es/tonto-util/)). ¡Democracia directa puesta en práctica!
+Cuando te quede claro que los partidos políticos desean tener el poder por amor al poder mismo, que no les interesa el bienestar de los demás y que solo les interesa el poder, empezarás a considerar la democracia directa como una alternativa deseable.
 
->Cuando te quede claro que los partidos políticos desean tener el poder por amor al poder mismo, que no les interesa el bienestar de los demás y que solo les interesa el poder, empezarás a considerar la democracia directa como una alternativa deseable. Hasta que no tengas conciencia de su fuerza, no te rebelarás, y hasta después de haberte revelado, no serás consciente de tu fuerza.
+>Hasta que no tengas conciencia de su fuerza, no te rebelarás, y hasta después de haberte revelado, no serás consciente de tu fuerza.
+
+El Partido Raro nace para que no dejes a nuestros políticos secuestrar tu voto cada 4 años y dejes de sentirte como un ([tontos útil](http://www.partidoraro.es/tonto-util/)).
+
+¡Democracia directa puesta en práctica!
+
 
 Las principales líneas de actuación son:
 
