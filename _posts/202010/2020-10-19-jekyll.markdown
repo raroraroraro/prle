@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "La independencia del Poder Judicial."
+date:   2020-10-19 01:30:30 +0100
+categories: jekyll update
+permalink: /independencia-Poder-Judicial/
+---
+
+Para aquellos que ya conocen los antecedentes del tema, les sugerimos saltar directamente a la que pasa por ser [nuestra solución](###La-solución-pasa-por).
+
+Para aquellos que no hayan abierto un periódico últimamente, la guerra iniciada entre el PP y el PSOE-Podemos por la renovación del Consejo General del Poder Judicial se resume en que llevamos casi dos años sin lograr elegir a los sustitutos del CGPJ. Los miembros del CGPJ tiene un mandato de cinco años, de acuerdo a la Ley Orgánica del Poder Judicial (artículo 568). Los actuales miembros fueran nombrados el 3 de diciembre de 2013 y su mandato debería haber finalizado en 2018.
+¿Y por qué no se ha renovado? La razón es sencilla, ambos partidos no se ponen de acuerdo en proponer a los candidatos y la ley obliga a que tengan el apoyo de tres quintas partes del Congreso y el Senado. La razón es sencilla, cada uno desea colocar a los magistrados más afines a su cuerda política para poder tirar de ellos cuando sus problemas judiciales, probablemente por problemas derivados de la corrupción en su gestión, les haga sentarse en el banquillo con jueces poco imparciales.
+Ya empezamos mal. La RAE define independencia como: no depender de otro, ser autónomo o sostener tus derechos u opiniones sin admitir intervención ajena. Quizá a ustedes, como a mí, les chirríe que el poder judicial sea independiente y al mismo tiempo dejen que sus representantes sean escogidos por los partidos políticos. No cuadra, ¿verdad?
+El asunto no es baladí dado que España puede recibir un tirón de orejas de Europa que ya está mirando con atención el asunto, sobre todo desde que Hungría y Polonia quieren utilizar el ejemplo español como un trato de favor y en contra de ambos países. El subsecretario polaco de Asuntos Exteriores, Pawel Jablonski, avivó la polémica al lanzar una pregunta en su cuenta en Twitter:  “Si la Unión Europea sanciona a Polonia por elegir al poder judicial por una mayoría de tres quintos del Parlamento, ¿qué hará Bruselas si España nombra el CGPJ por la mitad más uno?”, tuiteó Jablonski.
+
+> <blockquote class="twitter-tweet"><p lang="pl" dir="ltr">A w 🇪🇸Hiszpanii: rząd zmienia zasady wyboru tamtejszej KRS. Nadal (jak w Polsce) sędziów będzie wybierał parlament. Ale zamiast większości 3/5 (jak w Polsce) ma być 50%+1.<br><br>Opozycja: zamach na trójpodział władzy, „zabijają Monteskiusza“. <br><br>🤔Ciekawe czy <a href="https://twitter.com/VeraJourova?ref_src=twsrc%5Etfw">@VeraJourova</a> interweniuje. <a href="https://t.co/jGQ4g9GLqf">pic.twitter.com/jGQ4g9GLqf</a></p>&mdash; Paweł Jabłoński (@paweljabIonski) <a href="https://twitter.com/paweljabIonski/status/1316291073279434752?ref_src=twsrc%5Etfw">October 14, 2020</a></blockquote>
+> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+¿Pero por qué tanta bronca con este tema?
+
+Porque hay mucho dinero en juego y la portavoz socialista en el Parlamento Europeo, Iratxe García, lo dejaba muy claro en el pleno de junio cuando afirmó: «Los socialistas lo tenemos claro. Ni un solo euro para aquellos Gobiernos que no actúen con pleno respeto del Estado de Derecho y de los valores fundamentales de la Unión», en referencia a Polonia y Hungría. En el caso de España nos jugamos 140.000 millones de Euros.
+
+
+### La solución pasa por
+
+La idea es realmente sencilla y parte de una pregunta: ¿A qué tienen miedo los jueces y magistrados españoles? ¿Por qué no se atreven a celebrar unas elecciones y elegir a una lista de jueces que según sus criterios profesionales sean dignos vocales del CGPJ? ¿Es que pueden exigir independencia a otros poderes públicos si no son ellos los primeros en dar el paso de sostener sus derechos y opiniones sin admitir intervención ajena? ¿Acaso esperan que quien desea su falta de independencia sea quien se la brinde?
+
+Es lógico que pida un martillo aquel que ve cualquier problema como un clavo, pero si esperan que haya una ley que les diga exactamente lo que tienen que hacer, como buenos funcionarios, entonces que no se extrañen cuando amanezcan un día con el barro de la sumisión por la barbilla. Quizá para los que no somos abogados ni funcionarios, la forma más ejecutiva de solucionar el problema sea pedir perdón en vez de pedir permiso. Léase, organizar unas elecciones sin las ataduras de una ley, con transparencia y rigor, demostrando a los políticos que es posible llegar a acuerdos entre magistrados y jueces que teniendo distintas ideologías son capaces de pensar en el bien común y demostrarlo frente a la opinión pública – no frente a los políticos - como un cuerpo al servicio de todos los ciudadanos independientemente de sus creencias políticas.
+¿Serían capaces los políticos de hacer caso omiso a esa lista de magistrados elegidos libremente por los propios jueces? Seguro que sí, nunca les ha faltado cara para meterse el dinero en el bolsillo, pero quizá les cueste mucho más justificarlo frente a sus propios votantes. Sí, señores jueces, se trata justamente de eso: de poner en evidencia y complicar la vida tanto como sea posible a todos aquellos que utilizan la democracia sin ningún rubor para cometer sus delitos sobre la democracia.
+
+No tomar la decisión correcta les convierte en cómplices por omisión de socorro a una separación de poderes reiteradamente ultrajada. Montesquieu les observa.
+
+Estamos en sus manos, señorías.
