@@ -10,6 +10,8 @@ El Partido Raro nace para que no dejes a nuestros políticos secuestrar tu voto 
 
 **¡Democracia directa puesta en práctica!**
 
+<iframe width="480" height="360" src="//www.youtube.com/embed/1wCq31gtu98" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+[Carl Sagan - Pale blue dot](https://youtu.be/1wCq31gtu98)
 
 Las principales líneas de actuación son:
 
