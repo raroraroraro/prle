@@ -8,7 +8,7 @@ Si te sientes como la herramienta que utilizan los partidos políticos actuales 
 
 >Hasta que no tengas conciencia de tu fuerza, no te rebelarás, y hasta después de haberte rebelado, no serás consciente de tu fuerza. (1984)
 
-El Partido Raro nace para que no dejes a nuestros políticos secuestrar tu voto cada 4 años ([y dejes de sentirte como un "tonto útil"](http://www.partidoraro.es/tonto-util/)).
+El Partido Raro nace para que no dejes a nuestros políticos secuestrar tu voto cada 4 años ([y dejes de sentirte como un "tonto útil"](http://www.partidoraro.es/tonto-util/)). ¿Por qué el nombre de Partido Raro? Porque nos parece raro (inusual) que personas anónimas tengan que llegar a la situación de montar un partido para defender los principios básicos de una democracia.
 
 **¡Democracia directa puesta en práctica!**
 
@@ -28,11 +28,9 @@ La principal línea de actuación es la democracia directa, aunque vamos a añad
 **5.  NO ACEPTAMOS CARGOS:** El objetivo del resto de partidos es ostentar el poder para - según dicen ellos - cambiar las cosas. Sin embargo, un instante después de recibir el apoyo necesario, el poder se convierte en el único fin del partido y el cambio se convierte en la excusa. ¿Qué pasaría si quitáramos los cargos de la ecuación? **El objetivo del Partido Raro es servir como herramienta a sus votantes, no representarlos.** Para eso, ¿qué necesidad hay de ostentar cargos públicos? Ninguna, ¿verdad? Nuestro partido no formará parte de gobiernos o de ejecutivos a ningún nivel.
 
 <iframe width="480" height="360" src="//www.youtube.com/embed/Il3o-aT-KIQ" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-[Política en Suiza: Daniel Ordas:](https://youtu.be/Il3o-aT-KIQ)
+[Política en Suiza: Entrevista a Daniel Ordas](https://youtu.be/Il3o-aT-KIQ)
 
 **GOBIERNO DE CONCENTRACIÓN NACIONAL:** Ante la emergencia económica y social provocada por el CoVid19, déjanos plantearte una pregunta: Si la persona mejor preparada para dirigir el país no militara en un partido político ¿podría llegar a ser nombrado Presidente del Gobierno de España? La situación actual nos lleva a pedir un gobierno de concentración formado por los mejores gestores y sin políticos al frente. Si esperas que los políticos te saquen del problema, no te sorprendas con el resultado.
-
-Si el Congreso no se pone de acuerdo para lograr la aprobación de los presupuestos generales, une tu firma para que se hagan desde Europa: [Change.org:140.000 millones en juego"](https://www.change.org/p/psoe-140-000-millones-de-euros)
 
 Las iniciativas políticas dependen de ti y del apoyo que logres. Iremos añadiendo las medidas que recibamos y consideremos de interés público. Si quieres contactarnos porque perteneces a un grupo o una organización que desea visibilizar sus propuestas, escríbenos un correo electrónico. Sé breve y ten paciencia, nuestros recursos son muy limitados.
 
