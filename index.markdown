@@ -22,7 +22,7 @@ El Partido Raro nace para que no dejes a nuestros políticos secuestrar tu voto 
 <iframe width="480" height="360" src="//www.youtube.com/embed/1wCq31gtu98" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 [Carl Sagan - Pale blue dot](https://youtu.be/1wCq31gtu98)
 
-La principal línea de actuación es la democracia directa, aunque vamos a añadir algunos de nuestros principios:
+La principal línea de actuación es la democracia directa, aunque vamos a añadir algunos de nuestros principios, a modo de resumen:
 
 **1.	DEMOCRACIA DIRECTA:** Podrás votar las leyes desde Internet y nuestro diputado pulsará el botón que gane en la consulta. Nuestro objetivo es permitir a nuestros votantes y simpatizantes tomar las decisiones en aquellas materias que se voten en el Congreso mientras no se haya implantado un sistema de [Democracia 4.0 ](https://15mpedia.org/wiki/Democracia_4.0) que permita que todo ciudadano pueda ejercer su derecho al voto telemáticamente (utilizando el DNIe) y que dicho voto se reste de la cuota de representación que le corresponde al parlamento. Mientras no exista dicho sistema, nuestros diputados - elegidos por sorteo - se limitarán a pulsar el botón que haya resultado ganador de la consulta a nuestros votantes y simpatizantes. Cuando se apruebe dicha ley, el partido se disolverá.
 

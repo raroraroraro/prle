@@ -2,7 +2,9 @@
 
 ¿No te parece que en los últimos años todo ha cambiado para seguir igual que siempre? ¿Sigues esperando a que los políticos resuelvan tus problemas? ¿Votas por líderes o partidos políticos en vez de escoger leyes o apoyar iniciativas? ¿Sigues sin sentirte representado por la clase política?
 
-Cuando te quede claro que los partidos políticos desean tener el poder por amor al poder mismo, que no les interesa el bienestar de los demás y que solo les interesa el poder, empezarás a considerar la democracia directa como una alternativa deseable.
+Si te sientes como la herramienta que utilizan los partidos políticos actuales para llegar al poder o mantener sus privilegios, la democracia directa es la única llave que te permitirá ejercer tu poder democrático como ciudadano. [#LiberaTuVoto](https://twitter.com/partidoraro/status/1264648195407319048?s=20)
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/LiberaTuVoto?src=hash&amp;ref_src=twsrc%5Etfw">#LiberaTuVoto</a> : La democracia directa es la llave que te permitiría hacer una moción de censura cuando consideres que el gobierno no está a la altura de las circunstancias. <a href="https://t.co/t0hj59b4Kg">pic.twitter.com/t0hj59b4Kg</a></p>&mdash; PartidoRaro.es (@partidoraro) <a href="https://twitter.com/partidoraro/status/1264648195407319048?ref_src=twsrc%5Etfw">May 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 >Hasta que no tengas conciencia de tu fuerza, no te rebelarás, y hasta después de haberte rebelado, no serás consciente de tu fuerza. (1984)
 
@@ -13,7 +15,7 @@ El Partido Raro nace para que no dejes a nuestros políticos secuestrar tu voto 
 <iframe width="480" height="360" src="//www.youtube.com/embed/1wCq31gtu98" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 [Carl Sagan - Pale blue dot](https://youtu.be/1wCq31gtu98)
 
-Las principales líneas de actuación son:
+La principal línea de actuación es la democracia directa, aunque vamos a añadir algunos de nuestros principios, a modo de resumen:
 
 **1.	DEMOCRACIA DIRECTA:** Podrás votar las leyes desde Internet y nuestro diputado pulsará el botón que gane en la consulta. Nuestro objetivo es permitir a nuestros votantes y simpatizantes tomar las decisiones en aquellas materias que se voten en el Congreso mientras no se haya implantado un sistema de [Democracia 4.0 ](https://15mpedia.org/wiki/Democracia_4.0) que permita que todo ciudadano pueda ejercer su derecho al voto telemáticamente (utilizando el DNIe) y que dicho voto se reste de la cuota de representación que le corresponde al parlamento. Mientras no exista dicho sistema, nuestros diputados - elegidos por sorteo - se limitarán a pulsar el botón que haya resultado ganador de la consulta a nuestros votantes y simpatizantes. Cuando se apruebe dicha ley, el partido se disolverá.
 
