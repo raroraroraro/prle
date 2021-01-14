@@ -15,9 +15,11 @@ Si te sientes como la herramienta que utilizan los partidos políticos actuales 
 
 >Hasta que no tengas conciencia de tu fuerza, no te rebelarás, y hasta después de haberte rebelado, no serás consciente de tu fuerza. (1984)
 
-El Partido Raro nace para que evitar que los políticos secuestren tu voto una vez cada 4 años ([y dejes de sentirte como un "tonto útil"](http://www.partidoraro.es/tonto-util/)) y se disolverá en el momento en que se apruebe una Ley de Democracia Directa. ¿Por qué el nombre de Partido Raro? Porque nos parece raro (inusual, anormal, paradójico) que personas anónimas tengan que llegar a la situación de montar un partido para defender los principios básicos de una democracia. Creemos que la sociedad se ha dividido en sectas que se muestran incapaces de dialogar, incluso de escuchar otras opiniones; que se sienten atacados personalmente cada vez que alguien cuestiona sus ideas; porque ya no se apoya una idea, se es esa idea y si tú la criticas, me estás atacando a mí. El conflicto permanente está servido y se alcanza el objetivo: se elimina la crítica y se crea la ilusión del consenso, desde abajo, a través de la disciplina social. La libertad de expresión y la democracia se debilitan.
+El Partido Raro nace para que evitar que los políticos secuestren tu voto una vez cada 4 años ([y dejes de sentirte como un "tonto útil"](http://www.partidoraro.es/tonto-util/)) y se disolverá en el momento en que se apruebe una Ley de Democracia Directa. ¿Por qué el nombre de Partido Raro? Porque nos parece raro (inusual, anormal, paradójico) que personas anónimas tengan que llegar a la situación de montar un partido para defender los principios básicos de una democracia.
 
-<img src="../assets/images/2021/01/forgues.png" alt="Forgues">
+Llegamos al punto en que la sociedad se ha dividido en sectas que se muestran incapaces de dialogar, incluso de escuchar otras opiniones. Las personas se sienten personalmente atacadas cada vez que alguien cuestiona sus ideas; porque ya no se apoya una idea, se es esa idea. Ciudadanos que dejan que lo que piensan se convierta en lo que son y cuando cualquiera criticas la idea, está críticando a la persona. El conflicto permanente está servido y se alcanza el objetivo: se elimina la crítica y se crea la ilusión del consenso, desde abajo, a través de la disciplina social del grupo. La libertad de expresión y la democracia se debilitan.
+
+<img src="../assets/images/2021/01/forges.png" alt="Forges">
 
 **¡Democracia directa puesta en práctica!**
 
