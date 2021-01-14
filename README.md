@@ -8,7 +8,9 @@ Si te sientes como la herramienta que utilizan los partidos políticos actuales 
 
 >Hasta que no tengas conciencia de tu fuerza, no te rebelarás, y hasta después de haberte rebelado, no serás consciente de tu fuerza. (1984)
 
-El Partido Raro nace para que no dejes a nuestros políticos secuestrar tu voto cada 4 años ([y dejes de sentirte como un "tonto útil"](http://www.partidoraro.es/tonto-util/)). ¿Por qué el nombre de Partido Raro? Porque nos parece raro (inusual) que personas anónimas tengan que llegar a la situación de montar un partido para defender los principios básicos de una democracia.
+El Partido Raro nace para que evitar que los políticos secuestren tu voto una vez cada 4 años ([y dejes de sentirte como un "tonto útil"](http://www.partidoraro.es/tonto-util/)) y se disolverá en el momento en que se apruebe una Ley de Democracia Directa. ¿Por qué el nombre de Partido Raro? Porque nos parece raro (inusual, anormal, paradójico) que personas anónimas tengan que llegar a la situación de montar un partido para defender los principios básicos de una democracia. Creemos que la sociedad se ha dividido en sectas que se muestran incapaces de dialogar, incluso de escuchar otras opiniones; que se sienten atacados personalmente cada vez que alguien cuestiona sus ideas; porque ya no se apoya una idea, se es esa idea y si tú la criticas, me estás atacando a mí. El objetivo es evidente:
+
+<img src="../assets/images/2021/01/forgues.png" alt="Forgues">
 
 **¡Democracia directa puesta en práctica!**
 
