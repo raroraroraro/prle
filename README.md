@@ -10,18 +10,18 @@ Si te sientes como la herramienta que utilizan los partidos políticos actuales 
 
 El Partido Raro nace para que evitar que los políticos secuestren tu voto una vez cada 4 años ([y dejes de sentirte como un "tonto útil"](http://www.partidoraro.es/tonto-util/)) y se disolverá en el momento en que se apruebe una Ley de Democracia Directa. ¿Por qué el nombre de Partido Raro? Porque nos parece raro (inusual, anormal, paradójico) que personas anónimas tengan que llegar a la situación de montar un partido para defender los principios básicos de una democracia.
 
-Llegamos al punto en que la sociedad se ha dividido en sectas que se muestran incapaces de dialogar, incluso de escuchar otras opiniones. Las personas se sienten personalmente atacadas cada vez que alguien cuestiona sus ideas; porque ya no se apoya una idea, se es esa idea. Ciudadanos que dejan que lo que piensan se convierta en lo que son y cuando cualquiera criticas la idea, está críticando a la persona. El conflicto permanente está servido y se alcanza el objetivo: se elimina la crítica y se crea la ilusión del consenso, desde abajo, a través de la disciplina social del grupo. La libertad de expresión y la democracia se debilitan.
+Llegamos al punto en que la sociedad se ha dividido en sectas que se muestran incapaces de dialogar, incluso de escuchar otras opiniones. Las personas se sienten personalmente atacadas cada vez que alguien cuestiona sus ideas; porque ya no se apoya una idea, se es esa idea. Ciudadanos que dejan que lo que piensan se convierta en lo que son y cuando cualquiera criticas la idea, está críticando a la persona. El conflicto permanente está servido y se alcanza el objetivo: se elimina la crítica y se crea la ilusión del consenso, desde abajo, a través de la disciplina social del grupo. La libertad de expresión y la democracia se debilitan en un clima permanentemente hostil y agotador.
 
 <img src="../assets/images/2021/01/forges.png" alt="Forges">
 
 **¡Democracia directa puesta en práctica!**
 
-<iframe width="480" height="360" src="//www.youtube.com/embed/1wCq31gtu98" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-[Carl Sagan - Pale blue dot](https://youtu.be/1wCq31gtu98)
-
 La principal línea de actuación es la democracia directa, aunque vamos a añadir algunos de nuestros principios, a modo de resumen:
 
 **1.	DEMOCRACIA DIRECTA:** Podrás votar las leyes desde Internet y nuestro diputado pulsará el botón que gane en la consulta. Nuestro objetivo es permitir a nuestros votantes y simpatizantes tomar las decisiones en aquellas materias que se voten en el Congreso mientras no se haya implantado un sistema de [Democracia 4.0 ](https://15mpedia.org/wiki/Democracia_4.0) que permita que todo ciudadano pueda ejercer su derecho al voto telemáticamente (utilizando el DNIe) y que dicho voto se reste de la cuota de representación que le corresponde al parlamento. Mientras no exista dicho sistema, nuestros diputados - elegidos por sorteo - se limitarán a pulsar el botón que haya resultado ganador de la consulta a nuestros votantes y simpatizantes. Cuando se apruebe dicha ley, el partido se disolverá.
+
+<iframe width="480" height="360" src="//www.youtube.com/embed/Il3o-aT-KIQ" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+[Política en Suiza: Entrevista a Daniel Ordas](https://youtu.be/Il3o-aT-KIQ)
 
 **2.	ESCAÑOS VACÍOS EN EL SENADO:** Aquellos votantes, no satisfechos con ninguna candidatura electoral y que deseen expresar su voto en blanco, podrán ver su deseo materializado en forma de escaños vacíos. Dejaremos vacíos los escaños en el Senado para visibilizar el descontento de la ciudadanía con su clase política.
 
@@ -31,10 +31,11 @@ La principal línea de actuación es la democracia directa, aunque vamos a añad
 
 **5.  NO ACEPTAMOS CARGOS:** El objetivo del resto de partidos es ostentar el poder para - según dicen ellos - cambiar las cosas. Sin embargo, un instante después de recibir el apoyo necesario, el poder se convierte en el único fin del partido y el cambio se convierte en la excusa. ¿Qué pasaría si quitáramos los cargos de la ecuación? **El objetivo del Partido Raro es servir como herramienta a sus votantes, no representarlos.** Para eso, ¿qué necesidad hay de ostentar cargos públicos? Ninguna, ¿verdad? Nuestro partido no formará parte de gobiernos o de ejecutivos a ningún nivel.
 
-<iframe width="480" height="360" src="//www.youtube.com/embed/Il3o-aT-KIQ" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-[Política en Suiza: Entrevista a Daniel Ordas](https://youtu.be/Il3o-aT-KIQ)
+<iframe width="480" height="360" src="//www.youtube.com/embed/1wCq31gtu98" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+[Carl Sagan - Pale blue dot](https://youtu.be/1wCq31gtu98)
 
-**GOBIERNO DE CONCENTRACIÓN NACIONAL:** Ante la emergencia económica y social provocada por el CoVid19, déjanos plantearte una pregunta: Si la persona mejor preparada para dirigir el país no militara en un partido político ¿podría llegar a ser nombrado Presidente del Gobierno de España? La situación actual nos lleva a pedir un gobierno de concentración formado por los mejores gestores y sin políticos al frente. Si esperas que los políticos te saquen del problema, no te sorprendas con el resultado.
+**GOBIERNO DE CONCENTRACIÓN NACIONAL:** Ante la emergencia económica y social provocada por el CoVid19 déjanos plantearte una pregunta: Si la persona mejor preparada para dirigir el país, la única capaz de salvar la situación, no militara en un partido político ¿podría llegar a ser nombrado Presidente del Gobierno de España?
+La situación actual nos lleva a pedir un gobierno de concentración formado por los mejores gestores y sin políticos al frente. Si esperas que los políticos te saquen del problema, no te sorprendas con el resultado.
 
 Las iniciativas políticas dependen de ti y del apoyo que logres. Iremos añadiendo las medidas que recibamos y consideremos de interés público. Si quieres contactarnos porque perteneces a un grupo o una organización que desea visibilizar sus propuestas, escríbenos un correo electrónico. Sé breve y ten paciencia, nuestros recursos son muy limitados.
 
