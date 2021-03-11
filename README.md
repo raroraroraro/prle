@@ -2,6 +2,9 @@
 
 Este partido nace porque creemos que los políticos actuales no nos representan, porque pensamos que anteponen sus intereses a los de los ciudadanos que los han elegido y porque pensamos que nuestros políticos no escuchan la voz de los ciudadanos con suficiente atención. No hemos encontrado otra solución que actuar.
 
+<iframe width="480" height="360" src="//www.youtube.com/embed/UmySb20hqx4" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+[Voto Telemático en España: TVE1](https://youtu.be/UmySb20hqx4)
+
 ¿No te parece que en los últimos años todo ha cambiado para seguir igual que siempre? ¿Sigues esperando a que los políticos resuelvan tus problemas? ¿Votas por líderes o partidos políticos en vez de escoger leyes o apoyar iniciativas? ¿Sigues sin sentirte representado por la clase política?
 
 Si te sientes como la herramienta que utilizan los partidos políticos actuales para llegar al poder o mantener sus privilegios, la democracia directa es la única llave que te permitirá ejercer tu poder democrático como ciudadano. [#LiberaTuVoto](https://twitter.com/partidoraro/status/1264648195407319048?s=20)
