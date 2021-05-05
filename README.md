@@ -2,9 +2,6 @@
 
 Este partido nace porque creemos que los políticos actuales no nos representan, porque pensamos que anteponen sus intereses a los de los ciudadanos que los han elegido y porque no prestan atención a las necesidades de los ciudadanos. No hemos encontrado otra solución que actuar para cambiarlo.
 
-<iframe width="480" height="360" src="//www.youtube.com/embed/UmySb20hqx4" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-[Voto Telemático en España: TVE1](https://youtu.be/UmySb20hqx4)
-
 ¿No te parece que en los últimos años todo ha cambiado para seguir igual que siempre? ¿Sigues esperando a que los políticos resuelvan tus problemas? ¿Votas por líderes o partidos políticos en vez de escoger leyes o apoyar iniciativas? ¿Sigues sin sentirte representado por la clase política?
 
 Si te sientes como la herramienta que utilizan los partidos políticos actuales para llegar al poder o mantener sus privilegios, la democracia directa es la única llave que te permitirá ejercer tu poder democrático como ciudadano. [#LiberaTuVoto](https://twitter.com/partidoraro/status/1264648195407319048?s=20)
@@ -13,7 +10,10 @@ Si te sientes como la herramienta que utilizan los partidos políticos actuales 
 
 >Hasta que no tengas conciencia de tu fuerza, no te rebelarás, y hasta después de haberte rebelado, no serás consciente de tu fuerza. (1984)
 
-El Partido Raro nace para que evitar que los políticos secuestren tu voto una vez cada 4 años ([y dejes de sentirte como un "tonto útil"](http://www.partidoraro.es/tonto-util/)) y se disolverá en el momento en que se apruebe una Ley de Democracia Directa. ¿Qué podemos hacer mientras no exista esa ley? El Partido Raro presentará a sus candidatos para el Congreso escogiéndolos al azar entre aquellos que cumplan con los criterios de selección definidos. Nuestros diputados votarán en el mismo sentido que haya decidido la mayoría de nuestros militantes a través de Internet. Por ejemplo, cuando haya una moción de censura se te preguntará si estas a favor o en contra y nuestros diputados votaran por la opción que sea mayoritariamente elegida por los militantes. Democracia pura y dura.
+El Partido Raro nace para que evitar que los políticos secuestren tu voto una vez cada 4 años ([y dejes de sentirte como un "tonto útil"](http://www.partidoraro.es/tonto-util/)) y se disolverá en el momento en que se apruebe una Ley de Democracia Directa. ¿Qué podemos hacer mientras no exista esa ley? El Partido Raro presentará a sus candidatos para el Congreso escogiéndolos al azar entre aquellos que cumplan con los criterios de selección definidos. Nuestros diputados votarán en el mismo sentido que haya decidido la mayoría de nuestros militantes a través de Internet. Por ejemplo, cuando haya una moción de censura se te preguntará si estas a favor o en contra y nuestros diputados votaran por la opción que sea mayoritariamente elegida por los militantes. Democracia pura y dura del siglo 21: utilizando el voto telemático, igual que nuestros diputados.
+
+<iframe width="480" height="360" src="//www.youtube.com/embed/UmySb20hqx4" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+[Voto Telemático en España: TVE1](https://youtu.be/UmySb20hqx4)
 
 Algunos nos preguntáis: ¿por qué el nombre de Partido Raro? Quizá porque no encontramos ninguno mejor, hasta hoy. Un día nos preguntamos hasta dónde puede llegar un partido político sin recursos, que no acepte subvenciones. ¿No te parece un plateamiento raro (inusual, anormal o paradójico) que personas anónimas tengan que llegar a la situación de montar un partido que se cuestiona el principio básico de si funciona una democracia representativa?
 
