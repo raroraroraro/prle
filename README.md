@@ -3,12 +3,11 @@
 Este partido nace porque creemos que los políticos actuales no nos representan cuando anteponen sus intereses a los de los ciudadanos que los han elegido; nace porque estamos seguros de que nuestros políticos no escuchan la voz de los ciudadanos con suficiente atención. Si tú tampoco te sientes representado o escuchado y encuentras otra forma de actuar, únete a nosotros. Demostremos a nuestros políticos que la madurez política y social de los ciudadanos ha llegado al punto de poder utilizar la democracia directa como forma de gobierno.
 
 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/LiberaTuVoto?src=hash&amp;ref_src=twsrc%5Etfw">#LiberaTuVoto</a> : La democracia directa es la llave que te permitiría hacer una moción de censura cuando consideres que el gobierno no está a la altura de las necesidades de sus ciudadanos. <a href="https://t.co/t0hj59b4Kg">pic.twitter.com/t0hj59b4Kg</a></p>&mdash; PartidoRaro.es (@partidoraro) <a href="https://twitter.com/partidoraro/status/1264648195407319048?ref_src=twsrc%5Etfw">May 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ¿No te parece que en los últimos años todo ha cambiado para seguir igual que siempre? ¿Sigues esperando a que los políticos resuelvan tus problemas? ¿Votas por líderes o partidos políticos en vez de escoger leyes o apoyar iniciativas? ¿Sigues sin sentirte representado por la clase política?
 
 Si te sientes como la herramienta que utilizan los partidos políticos actuales para llegar al poder o mantener sus privilegios, la democracia directa es la única llave que te permitirá ejercer tu poder democrático como ciudadano. [#LiberaTuVoto](https://twitter.com/partidoraro/status/1264648195407319048?s=20)
-
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/LiberaTuVoto?src=hash&amp;ref_src=twsrc%5Etfw">#LiberaTuVoto</a> : La democracia directa es la llave que te permitiría hacer una moción de censura cuando consideres que el gobierno no está a la altura de las necesidades de sus ciudadanos. <a href="https://t.co/t0hj59b4Kg">pic.twitter.com/t0hj59b4Kg</a></p>&mdash; PartidoRaro.es (@partidoraro) <a href="https://twitter.com/partidoraro/status/1264648195407319048?ref_src=twsrc%5Etfw">May 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 >Hasta que no tengas conciencia de tu fuerza, no te rebelarás, y hasta después de haberte rebelado, no serás consciente de tu fuerza. (1984)
 
