@@ -54,8 +54,7 @@ La principal línea de actuación es la democracia directa, aunque vamos a añad
 <iframe width="480" height="360" src="//www.youtube.com/embed/1wCq31gtu98" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 [Carl Sagan - Pale blue dot](https://youtu.be/1wCq31gtu98)
 
-**GOBIERNO DE CONCENTRACIÓN NACIONAL:** Ante la emergencia económica y social provocada por el CoVid19 déjanos plantearte una pregunta: Si la persona mejor preparada para dirigir el país, la única capaz de salvar la situación, no militara en un partido político ¿podría llegar a ser nombrado Presidente del Gobierno de España?
-La situación actual nos lleva a pedir un gobierno de concentración formado por los mejores gestores y sin políticos al frente. Si esperas que los políticos te saquen del problema, no te sorprendas con el resultado.
+**MERITOCRACIA:** Ante la emergencia económica y social provocada por el CoVid19 y la guerra de Ucrania, déjanos plantearte una pregunta: Si la persona mejor preparada para dirigir el país, la única capaz de salvar la situación, no militara en un partido político ¿podría llegar a ser nombrado Presidente del Gobierno de España? La situación actual nos lleva a pedir un sistema que permita que los mejores gestores (no políticos) sean quienes toman las riendas. Si esperas que los políticos te saquen del problema, no te sorprendas con el resultado.
 
 Las iniciativas políticas dependen de ti y del apoyo que logres. Iremos añadiendo las medidas que recibamos y consideremos de interés público. Si quieres contactarnos porque perteneces a un grupo o una organización que desea visibilizar sus propuestas, escríbenos un correo electrónico. Sé breve y ten paciencia, nuestros recursos son muy limitados.
 
